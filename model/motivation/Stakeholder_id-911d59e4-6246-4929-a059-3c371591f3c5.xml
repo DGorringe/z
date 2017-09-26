@@ -1,0 +1,9 @@
+<archimate:Stakeholder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Supply Chain"
+    id="id-911d59e4-6246-4929-a059-3c371591f3c5"
+    documentation="Business Stakeholders and Subject Matter Experts that attended workshops">
+  <properties
+      key="Person Name"
+      value="Tom Moody"/>
+</archimate:Stakeholder>

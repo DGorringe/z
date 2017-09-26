@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dataset measured to be at acceptable standard issued kite-mark"
+    id="id-b7d5255a-0eea-496f-a9f5-e5597b215eb2"
+    documentation="Data sets are scored according to well established data quality rules andstandards, and given a kite-mark to show they have achieved the standrd the business requires to do its job.">
+  <properties
+      key="Cultural goal Classification"
+      value="Data Quality"/>
+</archimate:Goal>

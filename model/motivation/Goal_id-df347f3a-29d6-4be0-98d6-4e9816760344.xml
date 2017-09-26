@@ -1,0 +1,8 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data owners are available to receive notification of, and act to resolve data quality issues within their remit."
+    id="id-df347f3a-29d6-4be0-98d6-4e9816760344">
+  <properties
+      key="Cultural goal Classification"
+      value="Data Ownership"/>
+</archimate:Goal>

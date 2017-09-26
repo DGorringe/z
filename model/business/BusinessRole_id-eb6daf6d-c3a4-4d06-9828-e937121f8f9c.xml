@@ -1,0 +1,8 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Director of Corporate Affairs"
+    id="id-eb6daf6d-c3a4-4d06-9828-e937121f8f9c">
+  <properties
+      key="Person Name"
+      value="MarkPendlington"/>
+</archimate:BusinessRole>

@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Continual communication and not assuming things"
+    id="id-c6734d17-5cd3-435f-affa-df3ae9e69aa0"
+    documentation="Data captured about the status of the work we do (what we are doing, when it is being done, where it is being done, who is doing it, vehicles and tools that are being used, etc.) can be shared and tracked by those who (internally and externally) are  interested in what is going on.">
+  <properties
+      key="Cultural goal Classification"
+      value="Collaboration"/>
+</archimate:Goal>

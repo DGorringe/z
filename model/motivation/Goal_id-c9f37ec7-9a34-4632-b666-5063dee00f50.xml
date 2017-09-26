@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Being receptive to ideas even when they haven’t worked before"
+    id="id-c9f37ec7-9a34-4632-b666-5063dee00f50"
+    documentation="Significant investment in SAP and telemetry is yet to unlock its potential value. The combination of next generation data capabilities, data quality and information governance will help us realise value and deliver a greater return on this investment.">
+  <properties
+      key="Cultural goal Classification"
+      value="Innovation"/>
+</archimate:Goal>

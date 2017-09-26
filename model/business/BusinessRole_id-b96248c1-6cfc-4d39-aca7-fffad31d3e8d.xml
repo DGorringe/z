@@ -1,0 +1,8 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Head of Pensions"
+    id="id-b96248c1-6cfc-4d39-aca7-fffad31d3e8d">
+  <properties
+      key="Person Name"
+      value="Peter Trippett"/>
+</archimate:BusinessRole>

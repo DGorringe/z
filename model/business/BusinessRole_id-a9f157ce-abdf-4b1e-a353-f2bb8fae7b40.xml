@@ -1,0 +1,8 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Director of Integrated Maintenance and Repair"
+    id="id-a9f157ce-abdf-4b1e-a353-f2bb8fae7b40">
+  <properties
+      key="Person Name"
+      value="David R Ward"/>
+</archimate:BusinessRole>

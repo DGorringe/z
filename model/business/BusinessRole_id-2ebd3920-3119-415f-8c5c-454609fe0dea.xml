@@ -1,0 +1,8 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Head of IT and Solutions"
+    id="id-2ebd3920-3119-415f-8c5c-454609fe0dea">
+  <properties
+      key="Person Name"
+      value="Barry Richard"/>
+</archimate:BusinessRole>

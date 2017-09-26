@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Being aware of and receptive to your changing environment"
+    id="id-d5cbeae8-a897-4168-afd7-13d16d8438b9"
+    documentation="More and more data is being generated from more sources than ever before (i.e. telemetry, telematics, smart meters, and social media). It is imperative we learn how to capture, store, integrate, manage and analyse this information to stay ahead of the competition.">
+  <properties
+      key="Cultural goal Classification"
+      value="Transformation"/>
+</archimate:Goal>

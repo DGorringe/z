@@ -1,0 +1,11 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Regional Supply Manager"
+    id="id-5c088554-e39f-48c4-91d2-f97b5181b796">
+  <properties
+      key="Person Name"
+      value="Paul Naylor"/>
+  <properties
+      key="Person Name"
+      value="Jim Foster"/>
+</archimate:BusinessRole>

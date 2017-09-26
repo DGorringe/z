@@ -1,0 +1,12 @@
+<archimate:Stakeholder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Finance SME"
+    id="id-32d920d1-113d-421b-a1c9-d7cfd0f80357"
+    documentation="Business Stakeholders and Subject Matter Experts that attended workshops">
+  <properties
+      key="Person Name"
+      value="Phil Trussell"/>
+  <properties
+      key="Person Name"
+      value="David Burbidge"/>
+</archimate:Stakeholder>

@@ -1,0 +1,8 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Head of Innovation"
+    id="id-3b818c9e-67f2-4de3-8723-08c8fcd90f48">
+  <properties
+      key="Person Name"
+      value="Steve Kaye"/>
+</archimate:BusinessRole>

@@ -1,0 +1,8 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Head of Developer Services"
+    id="id-a9c5482d-207e-49ef-b39c-d60385ffae0a">
+  <properties
+      key="Person Name"
+      value="Iain Amis"/>
+</archimate:BusinessRole>

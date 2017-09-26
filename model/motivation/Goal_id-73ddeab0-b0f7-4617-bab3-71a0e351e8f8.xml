@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Innovative thinking"
+    id="id-73ddeab0-b0f7-4617-bab3-71a0e351e8f8"
+    documentation="Helps us answer questions that previously we didn’t know we were going to need to ask.">
+  <properties
+      key="Cultural goal Classification"
+      value="Innovation"/>
+</archimate:Goal>

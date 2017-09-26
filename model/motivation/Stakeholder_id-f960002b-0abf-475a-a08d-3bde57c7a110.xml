@@ -1,0 +1,20 @@
+<archimate:Stakeholder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Enterprise Information Management Alliance Aiimi"
+    id="id-f960002b-0abf-475a-a08d-3bde57c7a110">
+  <properties
+      key="Person Name"
+      value="Jeff Pollard"/>
+  <properties
+      key="Person Name"
+      value="Gareth Fisher"/>
+  <properties
+      key="Person Name"
+      value="Jake Harvey,"/>
+  <properties
+      key="Person Name"
+      value="David Ford"/>
+  <properties
+      key="Person Name"
+      value="David Gorringe"/>
+</archimate:Stakeholder>

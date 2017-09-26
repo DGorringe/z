@@ -1,0 +1,8 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Legal Director"
+    id="id-ad6550c8-487a-489a-a599-420776eecda8">
+  <properties
+      key="Person Name"
+      value="Claire Russell"/>
+</archimate:BusinessRole>

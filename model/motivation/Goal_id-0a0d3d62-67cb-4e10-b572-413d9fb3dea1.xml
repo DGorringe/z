@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Promote the principle that the virtual asset is as important as the physical asset"
+    id="id-0a0d3d62-67cb-4e10-b572-413d9fb3dea1"
+    documentation="Every opportunity is taken to promote the principle that the virtual asset is as important as the physical asset, and that the consequences of a data quality issue may be just as significant as a physical issue on the ground. Every opportunity is taken to educate people about the business value of data accuracy, and the role they have to play in contributing to the realisation of that business value by ensuring accuracy of data through their actions and behaviours.">
+  <properties
+      key="Cultural goal Classification"
+      value="Data Capture"/>
+</archimate:Goal>

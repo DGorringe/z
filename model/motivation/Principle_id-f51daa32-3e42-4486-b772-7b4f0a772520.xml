@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Integrate, Reuse, Adapt"
+    id="id-f51daa32-3e42-4486-b772-7b4f0a772520"
+    documentation="When a requirement for new data arises, it will most likely overlap to some degree with data and processes currently managed by an existing system or systems. More often than not, it will seem more cost effective to purchase or develop a new system in isolation. Inevitably, however, the overriding need for a single version of the truth at the enterprise level will eventually require expensive retrospective data integration.&#xA;&#xA;Anglian Water will apply data governance and appropriate project funding to ensure all new local data requirements are considered with respect to the overarching enterprise data model. Where a sufficient degree of overlap exists, this will ensure that data from new systems is integrated with data from existing systems, or that data from existing systems is reused and adapted.&#xA;&#xA;Planning for the reuse and adaptation of existing data structures at an early stage prevents the need for expensive data and system integration later on."/>

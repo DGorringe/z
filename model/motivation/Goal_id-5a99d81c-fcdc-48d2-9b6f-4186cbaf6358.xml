@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Being open to new ideas"
+    id="id-5a99d81c-fcdc-48d2-9b6f-4186cbaf6358"
+    documentation="Leverage open source technologies that are free to use and immediately available. Next generation data management capabilities can be used to deliver value today.">
+  <properties
+      key="Cultural goal Classification"
+      value="Innovation"/>
+</archimate:Goal>

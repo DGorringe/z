@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Rework operational processes that capture data in unstructured format and convert to structured format"
+    id="id-57885bf1-30c7-4858-ba16-aa7338b84445"
+    documentation="Work Order operational management processes, workflow, and underlying data architectures, are rationalised and optimised to ensure that all business-critical information pertaining to jobs and customer contact is captured as structured data rather than long text, so that it can be better processed, analysed, and leveraged.&#xA;&#xA;Where business critical information is currently captured as unstructured textual data, either via line of business systems, online interfaces, or desktop documents and spreadsheet files, these data capture forms and mechanisms are deemed eligible for rework / redesign / replacement, so as to capture the same information as structured data.">
+  <properties
+      key="Cultural goal Classification"
+      value="Unstructured Data"/>
+</archimate:Goal>

@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Golden Source"
+    id="id-ccc873f8-8d74-46f1-81f8-a1ae364be471"
+    documentation="Authoritative ‘golden’ data stores in a single, centralised location for shared business-critical data, to drive down fragmentation of master data."/>

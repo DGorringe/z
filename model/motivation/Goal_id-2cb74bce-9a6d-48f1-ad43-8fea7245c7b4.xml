@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Datasets measured for conformance with data quality expectations"
+    id="id-2cb74bce-9a6d-48f1-ad43-8fea7245c7b4"
+    documentation="Data sets are analysed and assessed in order to measure and quantify their conformance to data quality expectations, i.e. the extent to which the data is ‘fit for purpose’.">
+  <properties
+      key="Cultural goal Classification"
+      value="Data Quality"/>
+</archimate:Goal>

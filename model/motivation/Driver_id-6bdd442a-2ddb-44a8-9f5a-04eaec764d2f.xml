@@ -1,0 +1,12 @@
+<archimate:Driver
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Owned"
+    id="id-6bdd442a-2ddb-44a8-9f5a-04eaec764d2f"
+    documentation="We will ensure all information is owned and that people are responsible for its care and protection. All information will have an information asset owner (business) and a steward (technology platform) who will protect and control it for the benefit of the entire organisation, not just for the benefit of any individual or the business unit that they work for">
+  <properties
+      key="Commitment Number"
+      value="2"/>
+  <properties
+      key="Information Charter Commitment"
+      value="Y"/>
+</archimate:Driver>

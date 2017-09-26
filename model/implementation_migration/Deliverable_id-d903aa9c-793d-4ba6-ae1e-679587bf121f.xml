@@ -1,0 +1,5 @@
+<archimate:Deliverable
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Glossary"
+    id="id-d903aa9c-793d-4ba6-ae1e-679587bf121f"
+    documentation="A data glossary is used to capture a comprehensive list of data entities, i.e. all the key pieces of information that are important to the business.&#xA;For each data entity, the correct business terminology and definition are also agreed and documented.&#xA;Each definition should accurately and sufficiently reflect the unequivocal meaning and significance of each data entity, throughout the entire enterprise, regardless of department or system.&#xA;Wherever an entity may legitimately mean different things to different people, then separate distinct entities or sub-entities should be created instead, to avoid any ambiguity at the enterprise level.&#xA;The intention is to provide a definitive reference document for data development purposes, so that whenever there is a business requirement to use (or re-use) a data entity in an application or report, the meaning is always unambiguous and consistent."/>

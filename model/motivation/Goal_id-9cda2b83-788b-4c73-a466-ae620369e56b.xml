@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Replace any EUC requirement in the creation of business-critical datasets with enterprise solution"
+    id="id-9cda2b83-788b-4c73-a466-ae620369e56b"
+    documentation="Where operational processes generate their own business-critical datasets, and these processes currently rely on the manual collation and manipulation of data in desktop tools such as Microsoft Excel and Access, these are identified as eligible for replacement by centrally-supported, corporate toolsets (e.g. Tagetik, HR 2020), in order to drive down the duplication of effort and business risk.&#xA;&#xA;Where analytical or modelling processes generate their own business-critical datasets, and these processes currently rely on the manual collation and manipulation of data in desktop tools such as Microsoft Excel and Access, these are identified as eligible for incorporation into centrally managed modelling toolsets (ILPM, I2O, etc.), produced as business intelligence reporting, or the datasets are made available in the data-warehouse for exploratory self-service business intelligence, to drive down the duplication of effort and business risk.">
+  <properties
+      key="Cultural goal Classification"
+      value="System Integration"/>
+</archimate:Goal>

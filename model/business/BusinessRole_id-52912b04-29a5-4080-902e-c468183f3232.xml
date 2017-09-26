@@ -1,0 +1,8 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Property Solicitor"
+    id="id-52912b04-29a5-4080-902e-c468183f3232">
+  <properties
+      key="Person Name"
+      value="Bob Bailey"/>
+</archimate:BusinessRole>

@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data quality expectations are formalised as rules"
+    id="id-74bc3458-efea-490c-9fbf-2d608523b227"
+    documentation="Data quality expectations are formalised as rules concerning the accuracy, completeness, consistency, integrity, timeliness, uniqueness, and validity of data, to enable the systematic identification of data quality exceptions.">
+  <properties
+      key="Cultural goal Classification"
+      value="Data Quality"/>
+</archimate:Goal>

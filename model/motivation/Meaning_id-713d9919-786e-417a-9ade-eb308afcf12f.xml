@@ -1,0 +1,5 @@
+<archimate:Meaning
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Completeness"
+    id="id-713d9919-786e-417a-9ade-eb308afcf12f"
+    documentation="The proportion of data present in a data asset against the potential 100% complete data set."/>

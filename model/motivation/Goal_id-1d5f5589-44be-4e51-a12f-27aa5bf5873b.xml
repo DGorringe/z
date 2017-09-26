@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Demonstrating you value innovation and the people who generate it"
+    id="id-1d5f5589-44be-4e51-a12f-27aa5bf5873b"
+    documentation="Enabling big data models and predictive analytics to analyse high quality information, so that planners can collaborate with local agen cies and the Environment Agency to use scenario-cost-benefit ap proaches that integrate to Robust Decision Making (RDM) tools. High quality interconnect data is an essential ingredient when evaluating strategic options (desalination plant, new reservoir or water extraction), and the effect that can have on capital investment, the environment and customer’s future bills.">
+  <properties
+      key="Cultural goal Classification"
+      value="Innovation"/>
+</archimate:Goal>

@@ -1,0 +1,9 @@
+<archimate:Stakeholder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Security"
+    id="id-865477d0-e2d0-4b04-ade1-6f313262d046"
+    documentation="Business Stakeholders and Subject Matter Experts that attended workshops">
+  <properties
+      key="Person Name"
+      value="Steve Trippier"/>
+</archimate:Stakeholder>

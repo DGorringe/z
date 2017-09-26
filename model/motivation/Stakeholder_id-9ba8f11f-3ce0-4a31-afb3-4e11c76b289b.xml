@@ -1,0 +1,14 @@
+<archimate:Stakeholder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Anglian Water EIM Programme Manager"
+    id="id-9ba8f11f-3ce0-4a31-afb3-4e11c76b289b">
+  <properties
+      key="Person Name"
+      value="Ghefoor Ahmed"/>
+  <properties
+      key="Email"
+      value="gAhmed@anglianwater.co.uk"/>
+  <properties
+      key="Mobile Telephone"
+      value="07772 844960"/>
+</archimate:Stakeholder>

@@ -1,0 +1,5 @@
+<archimate:BusinessCollaboration
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Technical Design Authority"
+    id="id-a2e647c6-7649-4313-8a9e-dfae4ccd7837"
+    documentation="Purpose&#xA;The Technical Design Authority (TDA)  provides a forum for technical assurance and approval for inflight projects.&#xA;&#xA;Owns&#xA;Project Technical Assurance&#xA;Technical Assurance Library&#xA;&#xA;Attendees&#xA;Enterprise Architects&#xA;Solution Architects&#xA;Cyber Security"/>

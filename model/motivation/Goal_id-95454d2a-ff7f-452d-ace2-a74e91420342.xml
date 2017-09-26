@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Provision of secondary storage capability to support archiving of data"
+    id="id-95454d2a-ff7f-452d-ace2-a74e91420342"
+    documentation="Secondary data storage areas, database servers, replication procedures, table partitions, and scheduled backup and maintenance jobs are in place to manage the archival of data from all business-critical primary storage systems.">
+  <properties
+      key="Cultural goal Classification"
+      value="Data Retention and Archiving"/>
+</archimate:Goal>

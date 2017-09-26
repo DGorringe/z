@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Use consistent frameworks, templates, standards, policies and procedures for data architecture"
+    id="id-966e0423-46a3-48b2-b744-b2f34bae0c0e"
+    documentation="Frameworks, templates, standards, policies and procedures are developed to ensure that data architecture and configuration is accurate, common, and consistent.">
+  <properties
+      key="Cultural goal Classification"
+      value="Data Architecture"/>
+</archimate:Goal>

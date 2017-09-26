@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Working with leaders from across public sectors, young people, and community groups to inspire them to take positive steps towards a sustainable future."
+    id="id-92a7279e-536a-45da-9ad8-6935baa8572a"
+    documentation="Enhancing our information architecture capability so we can safely, securely and easily share information with customers, regulators, central government, government agencies, local authorities, emergency services, the community, and research partners such as Cranfield. Doing this well means we can significantly extend our reach into valuable information sources and derive insightful knowledge to help anticipate, adapt, avoid and recover from disruptive events.">
+  <properties
+      key="Cultural goal Classification"
+      value="Collaboration"/>
+</archimate:Goal>

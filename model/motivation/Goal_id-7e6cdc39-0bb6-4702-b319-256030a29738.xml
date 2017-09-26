@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="A small idea can have a large transformational effect"
+    id="id-7e6cdc39-0bb6-4702-b319-256030a29738"
+    documentation="Simply measuring the quantity and quality of our data assets gives us the ability to track the impact of transformation against those metrics. We can see what is working and driving the right outcomes, and do more of the same. We can see where investment is not delivering a return and do something else.">
+  <properties
+      key="Cultural goal Classification"
+      value="Transformation"/>
+</archimate:Goal>

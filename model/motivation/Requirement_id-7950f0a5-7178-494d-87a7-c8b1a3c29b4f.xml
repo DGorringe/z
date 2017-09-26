@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Integration policy"
+    id="id-7950f0a5-7178-494d-87a7-c8b1a3c29b4f"
+    documentation="Data Integration policy to govern the conceptual, logical, and physical modelling of data that is stored and used by particular information systems, so that can be integrated with the Enterprise Data Model. The physical data store shall be derived from the physical data model, which shall be derived from the logical data model, which shall be derived from, or at least mapped to, the Enterprise Data Model. There shall be no redundant data without justification."/>

@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Learn from others and the past"
+    id="id-61db686d-65ad-401f-90b0-f2b5883bb219"
+    documentation="Captured data about our asset operational maintenance can be used over time to analyse historical activities overlaid with telemetry data showing us the performance of those assets. In time we can learn how to better operate and develop earlier and lower cost interventions. In parallel, asset planners can more accurately evaluate alternative products as they truly understand the whole life BOTEX cost.">
+  <properties
+      key="Cultural goal Classification"
+      value="Innovation"/>
+</archimate:Goal>

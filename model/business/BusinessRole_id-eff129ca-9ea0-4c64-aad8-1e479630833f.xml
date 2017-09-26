@@ -1,0 +1,8 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Head of Operational Service Delivery"
+    id="id-eff129ca-9ea0-4c64-aad8-1e479630833f">
+  <properties
+      key="Person Name"
+      value="Pete Holland"/>
+</archimate:BusinessRole>

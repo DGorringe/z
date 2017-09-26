@@ -1,0 +1,8 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Asset Management Director"
+    id="id-102e6e31-9e80-4034-ad75-dd1d786b3eb5">
+  <properties
+      key="Person Name"
+      value="Chris Newsom"/>
+</archimate:BusinessRole>

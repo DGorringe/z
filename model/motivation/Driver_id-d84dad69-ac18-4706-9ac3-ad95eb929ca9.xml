@@ -1,0 +1,12 @@
+<archimate:Driver
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sustainable"
+    id="id-d84dad69-ac18-4706-9ac3-ad95eb929ca9"
+    documentation="We will ensure information is managed sustainably. All information has a lifecycle, which starts when it is created or captured and ends when it is finally disposed of">
+  <properties
+      key="Commitment Number"
+      value="4"/>
+  <properties
+      key="Information Charter Commitment"
+      value="Y"/>
+</archimate:Driver>

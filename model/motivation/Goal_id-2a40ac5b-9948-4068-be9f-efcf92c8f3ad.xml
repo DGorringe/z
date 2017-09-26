@@ -1,0 +1,8 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data that is obsolete is purged in line with data security standards and policies, to prevent it from becoming a liability and a security risk."
+    id="id-2a40ac5b-9948-4068-be9f-efcf92c8f3ad">
+  <properties
+      key="Cultural goal Classification"
+      value="Data Retention and Archiving"/>
+</archimate:Goal>

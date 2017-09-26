@@ -1,0 +1,12 @@
+<archimate:Driver
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Quick and easy to use"
+    id="id-f3d5b4aa-580f-4ce3-b2de-49569bf82156"
+    documentation="We will ensure Information will be quick and easy to use">
+  <properties
+      key="Commitment Number"
+      value="8"/>
+  <properties
+      key="Information Charter Commitment"
+      value="Y"/>
+</archimate:Driver>

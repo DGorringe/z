@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Being open to the value of new technology"
+    id="id-29b57f6a-ec45-4b81-933d-520d77355078"
+    documentation="During a recent pilot, free open source content analytics software was used to correctly predict non reportable bursts from reportable bursts on 50 jobs by training a model to look at long text fields in SAP.">
+  <properties
+      key="Cultural goal Classification"
+      value="Transformation"/>
+</archimate:Goal>

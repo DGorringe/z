@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Encouraging everyone to take part"
+    id="id-e4459cbd-fca2-4588-9c7f-4918fc6265b9"
+    documentation="Data that is captured, stored centrally, published and then used by many to drive value, encourages the right behaviours that benefit the whole community.">
+  <properties
+      key="Cultural goal Classification"
+      value="Innovation"/>
+</archimate:Goal>

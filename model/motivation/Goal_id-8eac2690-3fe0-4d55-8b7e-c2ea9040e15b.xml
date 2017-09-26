@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Harnessing peoples energy in the right way"
+    id="id-8eac2690-3fe0-4d55-8b7e-c2ea9040e15b"
+    documentation="90% of the time that knowledge workers spend in creating new reports is recreating information that already exists (IDC). We need to spend more time centrally storing information so that it can be consumed by everyone. Derived information from one team can be reused by all teams.">
+  <properties
+      key="Cultural goal Classification"
+      value="Innovation"/>
+</archimate:Goal>

@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Transform the way we work with customers, partners and suppliers"
+    id="id-4b314233-bf23-489e-afc0-efd6a211306e"
+    documentation="Our data quality framework and associated data quality metrics enable our partners and suppliers to deliver information systems to the required standard.&#xA;High quality information fosters confidence in our decisions, builds trust and enables us to be open and transparent.">
+  <properties
+      key="Cultural goal Classification"
+      value="Transformation"/>
+</archimate:Goal>

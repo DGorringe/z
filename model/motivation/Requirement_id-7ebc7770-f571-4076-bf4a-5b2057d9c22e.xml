@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Master Data Management policy"
+    id="id-7ebc7770-f571-4076-bf4a-5b2057d9c22e"
+    documentation="Master Data Management policy to govern the creation, integration, maintenance, and use of shared, business-critical master and reference data, via a dedicated data integration architecture, in order to control shared access, replication and flow, and to ensure quality and consistency."/>

@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Legacy system modified to reflect physical process or business objective"
+    id="id-692b81aa-08a5-4dbc-8b7e-054f82c43f45"
+    documentation="Where data architecture or configuration is constrained or imposed by line of business systems or processes, then current systems or processes are extended or supplemented so that data is reconfigured, regrouped, and realigned, to accurately reflect the corresponding physical process, or support its corresponding business objective.">
+  <properties
+      key="Cultural goal Classification"
+      value="Data Architecture"/>
+</archimate:Goal>

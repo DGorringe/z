@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Being comfortable with change"
+    id="id-c1e2e49f-6ddd-46f5-b77e-b28fbb5fa295"
+    documentation="The more our data is interconnected, the more it helps us to analyse our performance (because we now understand the impact of everything on everything) and find ways to improve it.">
+  <properties
+      key="Cultural goal Classification"
+      value="Transformation"/>
+</archimate:Goal>

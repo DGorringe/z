@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Migrate all metadata to a metadata management system"
+    id="id-e7055944-bd5d-4870-9de4-06b61862af9d"
+    documentation="Metadata pertaining to subject areas outside of the BICC (e.g. templates, standards, frameworks, inventories, registers, etc.) is incorporated by subject area on an ongoing, incremental basis, with the most cost effective areas given highest priority, after due consideration of cost v benefit v risk, so that it is managed and made available in one place.">
+  <properties
+      key="Cultural goal Classification"
+      value="Metadata Management"/>
+</archimate:Goal>

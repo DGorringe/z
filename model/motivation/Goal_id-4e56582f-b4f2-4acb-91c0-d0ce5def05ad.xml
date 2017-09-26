@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="All forms entry used for business-critical data capture should have format, range and domain validation mechanisms that cannot be circumvented,"
+    id="id-4e56582f-b4f2-4acb-91c0-d0ce5def05ad"
+    documentation="For any forms designed to capture information of which accurate data quality is business-critical (e.g. geographical XY coordinates), then those entry mechanisms are implemented with built-in, robust data validation, such that values entered conform to a certain format, domain, or range and that those validation mechanisms cannot be circumvented.">
+  <properties
+      key="Cultural goal Classification"
+      value="Data Capture"/>
+</archimate:Goal>

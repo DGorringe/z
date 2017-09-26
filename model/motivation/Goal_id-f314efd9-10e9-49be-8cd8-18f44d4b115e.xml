@@ -1,0 +1,12 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Move metadata held in BICC text documents to a metadata management system"
+    id="id-f314efd9-10e9-49be-8cd8-18f44d4b115e"
+    documentation="Information which is currently embedded as written text within the Business Intelligence Competency Centre (BICC) specification documentation is gradually extracted and rehoused within a metadata management system, so that it can be searched, queried, updated, and leveraged.">
+  <properties
+      key="Cultural goal Classification"
+      value="Unstructured Data"/>
+  <properties
+      key="Cultural goal Classification"
+      value="Metadata Management"/>
+</archimate:Goal>

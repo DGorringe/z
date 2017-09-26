@@ -1,0 +1,8 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Head of Safety"
+    id="id-594b6091-5765-41ed-ad38-e2a74fb563c7">
+  <properties
+      key="Person Name"
+      value="David Matthews"/>
+</archimate:BusinessRole>

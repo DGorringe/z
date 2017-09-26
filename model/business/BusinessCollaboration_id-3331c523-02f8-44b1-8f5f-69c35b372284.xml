@@ -1,0 +1,5 @@
+<archimate:BusinessCollaboration
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Information Management Steering Group"
+    id="id-3331c523-02f8-44b1-8f5f-69c35b372284"
+    documentation="Promote industry best practice of a more formalised architectural framework, layered in order of precedence whereby the lower layers are driven by the higher layers (and not vice versa), and where roles and responsibilities are more clearly delineated:&#xA;Business Architecture&#xA;Process Architecture&#xA;Data Architecture&#xA;System Architecture&#xA;Technical Infrastructure Architecture"/>

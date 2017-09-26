@@ -1,0 +1,12 @@
+<archimate:Stakeholder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Anglian Water Insight Manager"
+    id="id-6112c69f-3c88-4bd9-ac44-7d6ba6d68f69"
+    documentation="Data Science">
+  <properties
+      key="Person Name"
+      value="R Moore"/>
+  <properties
+      key="Organisation Unit"
+      value="BICC"/>
+</archimate:Stakeholder>

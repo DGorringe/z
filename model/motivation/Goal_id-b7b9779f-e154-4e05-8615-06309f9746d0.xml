@@ -1,0 +1,8 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data that is not actively needed to support business processes is archived to secondary storage."
+    id="id-b7b9779f-e154-4e05-8615-06309f9746d0">
+  <properties
+      key="Cultural goal Classification"
+      value="Data Retention and Archiving"/>
+</archimate:Goal>

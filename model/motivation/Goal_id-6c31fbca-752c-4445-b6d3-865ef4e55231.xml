@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ensure all data capture forms have been subject to consistent user experience design practices"
+    id="id-6c31fbca-752c-4445-b6d3-865ef4e55231"
+    documentation="Data capture forms are subject to consistent user experience design practices, in order to render them as easy as possible to complete, and deter people from just ‘going through the motions’ when completing a data capture task.">
+  <properties
+      key="Cultural goal Classification"
+      value="Data Capture"/>
+</archimate:Goal>

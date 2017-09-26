@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Enterprise Architecture Repository"
+    id="id-60004210-dea7-4add-bc08-e9592977df74"
+    documentation="Consisting of reference data ( models, documents)&#xA;Status information about reference data&#xA;Audit information about referrnce data"/>

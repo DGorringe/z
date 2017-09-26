@@ -1,0 +1,9 @@
+<archimate:Stakeholder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Health and Safety SME"
+    id="id-c268ae2b-f12c-4d56-a3a4-9bb0e6b2cb94"
+    documentation="Business Stakeholders and Subject Matter Experts that attended workshops">
+  <properties
+      key="Person Name"
+      value="Christine Amos"/>
+</archimate:Stakeholder>

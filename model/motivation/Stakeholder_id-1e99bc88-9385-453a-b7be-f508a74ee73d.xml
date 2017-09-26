@@ -1,0 +1,14 @@
+<archimate:Stakeholder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Enterprise Information Management Alliance CSC"
+    id="id-1e99bc88-9385-453a-b7be-f508a74ee73d">
+  <properties
+      key="Person Name"
+      value="Chris Horne"/>
+  <properties
+      key="Person Name"
+      value="Ryan Moore"/>
+  <properties
+      key="Person Name"
+      value="Martyn Slingsby"/>
+</archimate:Stakeholder>

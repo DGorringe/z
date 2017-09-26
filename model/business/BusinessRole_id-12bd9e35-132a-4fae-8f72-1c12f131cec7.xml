@@ -1,0 +1,8 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Head of Commercial and Strategy"
+    id="id-12bd9e35-132a-4fae-8f72-1c12f131cec7">
+  <properties
+      key="Person Name"
+      value="Peter Duell"/>
+</archimate:BusinessRole>

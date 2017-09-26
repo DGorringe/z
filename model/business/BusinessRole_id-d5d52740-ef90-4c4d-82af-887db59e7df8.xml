@@ -1,0 +1,8 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Head of Water Networks"
+    id="id-d5d52740-ef90-4c4d-82af-887db59e7df8">
+  <properties
+      key="Person Name"
+      value="David R Ward"/>
+</archimate:BusinessRole>

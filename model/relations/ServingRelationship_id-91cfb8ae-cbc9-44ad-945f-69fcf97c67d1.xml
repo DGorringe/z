@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Chairs"
+    id="id-91cfb8ae-cbc9-44ad-945f-69fcf97c67d1">
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-d2a16977-04f5-4612-8c6d-1fc4e7398cc1.xml#id-d2a16977-04f5-4612-8c6d-1fc4e7398cc1"/>
+  <target
+      xsi:type="archimate:BusinessCollaboration"
+      href="BusinessCollaboration_id-c68a8457-79ec-4d10-b7a9-21197f9f85ec.xml#id-c68a8457-79ec-4d10-b7a9-21197f9f85ec"/>
+</archimate:ServingRelationship>

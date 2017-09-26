@@ -1,0 +1,5 @@
+<archimate:BusinessCollaboration
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Change Approval Board"
+    id="id-2f334a19-0835-4c39-b713-d0990dedb066"
+    documentation="Purpose&#xA;The Change Approval Board (CAB)  provides a control mechanism to ensure any changes to production system do not compromise system availability and functionality."/>

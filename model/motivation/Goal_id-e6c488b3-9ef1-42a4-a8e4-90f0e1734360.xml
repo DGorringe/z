@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data quality metrics drive feedback to correct source systems as BAU activity"
+    id="id-e6c488b3-9ef1-42a4-a8e4-90f0e1734360"
+    documentation="Data quality metrics drive a feedback loop, with data governance procedures and responsibilities in place to manage data quality issue resolution, and improve data quality over time, as a Business As Usual activity.">
+  <properties
+      key="Cultural goal Classification"
+      value="Data Quality"/>
+</archimate:Goal>

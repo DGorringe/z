@@ -1,0 +1,8 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Director of Information Services"
+    id="id-6ec4212d-afb1-4872-8382-90d6474a483a">
+  <properties
+      key="Person Name"
+      value="Iain Fry"/>
+</archimate:BusinessRole>

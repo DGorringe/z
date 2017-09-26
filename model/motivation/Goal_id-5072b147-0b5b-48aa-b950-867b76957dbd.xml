@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Actively trying to anticipate the future"
+    id="id-5072b147-0b5b-48aa-b950-867b76957dbd"
+    documentation="Systematically improve capture, validation, integrity, timeliness and accuracy of data, therefore minimising erroneous data and the possible knockon skew on insight we get from it.&#xA;Better quality data increases our ability to predict the future and change things today that will deliver better outcomes tomorrow.&#xA;The EU council recently passed the General Data Protection Regulation (GDPR), which has severe fines for non-compliance: 4% of annual revenue or €20 million Euros, whichever is highest. Businesses will have to provide their customers with a copy of their data. This will make data fluid and put the customer in control of their personal data. This will drive the decentralisation of data as the customer becomes the point of integration. This opens up enormous opportunity for novel data-driven business models that are compliant by design.">
+  <properties
+      key="Cultural goal Classification"
+      value="Trandformation"/>
+</archimate:Goal>

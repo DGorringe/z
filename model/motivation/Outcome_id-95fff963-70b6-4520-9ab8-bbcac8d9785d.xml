@@ -1,0 +1,9 @@
+<archimate:Outcome
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Safe clean water"
+    id="id-95fff963-70b6-4520-9ab8-bbcac8d9785d"
+    documentation="Drinking water is safe , clean and acceptable">
+  <properties
+      key="Outcome Classification"
+      value="Your Service"/>
+</archimate:Outcome>

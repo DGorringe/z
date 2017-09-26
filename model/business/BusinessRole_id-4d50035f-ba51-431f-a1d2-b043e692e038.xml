@@ -1,0 +1,8 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Head of Parks and Conservation"
+    id="id-4d50035f-ba51-431f-a1d2-b043e692e038">
+  <properties
+      key="Person Name"
+      value="David Simson"/>
+</archimate:BusinessRole>

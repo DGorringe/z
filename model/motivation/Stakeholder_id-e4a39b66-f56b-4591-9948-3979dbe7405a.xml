@@ -1,0 +1,14 @@
+<archimate:Stakeholder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aiimi Strategic Director"
+    id="id-e4a39b66-f56b-4591-9948-3979dbe7405a">
+  <properties
+      key="Person Name"
+      value="Paul Maker"/>
+  <properties
+      key="Email"
+      value="pmaker@aiimi.com"/>
+  <properties
+      key="Mobile Telephone"
+      value="07917 250714"/>
+</archimate:Stakeholder>

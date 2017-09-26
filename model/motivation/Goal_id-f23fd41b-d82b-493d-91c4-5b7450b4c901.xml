@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="For every subject area and business entity, the appointed data owner is clearly identified and known to all"
+    id="id-f23fd41b-d82b-493d-91c4-5b7450b4c901"
+    documentation="They are subject matter experts who recognise and fulfil their responsibilities and accountability, and can:&#xA;•&#x9; Advise if data already exists somewhere in the business, where it can be accessed, and at what level of granularity it is held.&#xA;•&#x9; Understand the data.&#xA;•&#x9; Accept whether or not it is fit for purpose.&#xA;•&#x9; Advise on how long to it can / should be retained.&#xA;•&#x9; Provide a steer regarding sensitive data.&#xA;•&#x9; Be contacted when data enhancements are requested at a later date.">
+  <properties
+      key="Cultural goal Classification"
+      value="Data Ownership"/>
+</archimate:Goal>

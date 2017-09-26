@@ -1,0 +1,8 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="All operational technology control systems are compartmentalised, in line with the official criteria of the Centre for the Protection of National Infrastructure (CPNI)."
+    id="id-0a2f465f-6ddf-4215-9da8-ec59f3134ca1">
+  <properties
+      key="Cultural goal Classification"
+      value="Data Security"/>
+</archimate:Goal>

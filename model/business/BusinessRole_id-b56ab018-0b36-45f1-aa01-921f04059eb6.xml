@@ -1,0 +1,8 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Head of Water Resources"
+    id="id-b56ab018-0b36-45f1-aa01-921f04059eb6">
+  <properties
+      key="Person Name"
+      value="Barry Richard"/>
+</archimate:BusinessRole>

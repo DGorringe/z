@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Use rationalised and regulated classifications of business entities as structured data across the enterprise"
+    id="id-f70b55bb-cfa1-4527-b7b2-67ba1ec7d7b6"
+    documentation="Business taxonomy is rationalised and regularised in areas where it is currently lacking (e.g. supply chain demand and procurement data), so that incoming data is consistently structured, rather than potentially subjective or descriptive, and in need of manual processing.">
+  <properties
+      key="Cultural goal Classification"
+      value="Unstructured Data"/>
+</archimate:Goal>

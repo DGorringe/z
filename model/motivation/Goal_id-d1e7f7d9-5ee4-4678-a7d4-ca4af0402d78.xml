@@ -1,0 +1,8 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data is only retained in primary storage as long as its maintenance and performance cost does not exceed its value to the organisation."
+    id="id-d1e7f7d9-5ee4-4678-a7d4-ca4af0402d78">
+  <properties
+      key="Cultural goal Classification"
+      value="Data Retention and Archiving"/>
+</archimate:Goal>

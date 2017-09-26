@@ -1,0 +1,8 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Head of Public Affairs"
+    id="id-fa32cc87-88c7-454c-b40f-bf065b32e93d">
+  <properties
+      key="Person Name"
+      value="Christopher Hayton"/>
+</archimate:BusinessRole>

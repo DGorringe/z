@@ -1,0 +1,15 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Enterprise Perspective"
+    id="id-3b6315a7-b334-49fc-9753-15f73608079d"
+    documentation="Effective data management requires working across organisational, system, and project boundaries.&#xA;&#xA;Anglian Water will seek to satisfy local interests in line with the overall interests of the business. &#xA;&#xA;Anglian Water will share decision-making responsibility across these boundaries, to support the integrated development of its data assets. Some decisions will primarily be business decisions made with input and guidance from IT. Others will be primarily technical decisions made with input and guidance from business data owners. All will be subject to enterprise-level data stewardship, in order to ensure that data is managed in support of the overall business strategy.&#xA;&#xA;An enterprise-level perspective helps to drive an interconnected enterprise data model, and ensures that data is managed consistently, in support of the overall business strategy.">
+  <properties
+      key="Benefit"
+      value="Allow changes to business processes to be assessed to identify impact on underlying application and technology layers"/>
+  <properties
+      key="Benefit"
+      value="Provide an overview of the data assets to understand what data entities and attributes are avaiable at any point in time."/>
+  <properties
+      key="Benefit"
+      value="Definitons of data entities and buiness terms allows all a common understanding across the business"/>
+</archimate:Principle>

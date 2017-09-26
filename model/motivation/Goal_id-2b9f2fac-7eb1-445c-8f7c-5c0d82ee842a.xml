@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Address behavioural failing in data capture"
+    id="id-2b9f2fac-7eb1-445c-8f7c-5c0d82ee842a"
+    documentation="Based on a formalised measurement of data quality, wherever data incompleteness, inaccuracy, or outdatedness can be traced to poor quality data capture, then a feedback loop is in place to address, manage, and resolve behavioural failings.">
+  <properties
+      key="Cultural goal Classification"
+      value="Data Capture"/>
+</archimate:Goal>

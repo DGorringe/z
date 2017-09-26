@@ -1,0 +1,12 @@
+<archimate:Stakeholder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer SME"
+    id="id-1559d9df-9b63-44e9-a54e-0f09f5b242d5"
+    documentation="Business Stakeholders and Subject Matter Experts that attended workshops">
+  <properties
+      key="Person Name"
+      value="Scott Snowden"/>
+  <properties
+      key="Person Name"
+      value="Alison Herbert"/>
+</archimate:Stakeholder>

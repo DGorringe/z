@@ -1,0 +1,8 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Head of Maintenance Services"
+    id="id-ac573c40-e5c1-4526-8bea-b40afd23b635">
+  <properties
+      key="Person Name"
+      value="Stewart Lightbody"/>
+</archimate:BusinessRole>

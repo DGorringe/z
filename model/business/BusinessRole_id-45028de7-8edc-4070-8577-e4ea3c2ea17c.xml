@@ -1,0 +1,8 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Head of Employee Relations"
+    id="id-45028de7-8edc-4070-8577-e4ea3c2ea17c">
+  <properties
+      key="Person Name"
+      value="Joe Perry"/>
+</archimate:BusinessRole>

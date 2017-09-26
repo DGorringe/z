@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Authorisation, access, and authentication is linked to the Human Resources starters, movers, and leavers processes"
+    id="id-e510c436-dbb8-4410-a190-98f5a1f26785"
+    documentation="Authorisation, access, and authentication is linked to the Human Resources starters, movers, and leavers processes, to uphold the principle of least privilege, i.e. to only provide access to the data that people need to do their job.">
+  <properties
+      key="Cultural goal Classification"
+      value="Data Security"/>
+</archimate:Goal>

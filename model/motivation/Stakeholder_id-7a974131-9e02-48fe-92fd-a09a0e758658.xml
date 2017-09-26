@@ -1,0 +1,12 @@
+<archimate:Stakeholder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Anglian Water Data Solutions Manager"
+    id="id-7a974131-9e02-48fe-92fd-a09a0e758658"
+    documentation="BICC">
+  <properties
+      key="Person Name"
+      value="Brian Lumb"/>
+  <properties
+      key="Organisation Unit"
+      value="BICC"/>
+</archimate:Stakeholder>

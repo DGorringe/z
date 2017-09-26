@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="All data shall be stored and retained in enterprise systems"
+    id="id-56e806b1-b1e9-4ae9-b3fc-9c379778a27b"
+    documentation="Retaining and manipulation data in non-enterprise systems (EUC e.g. Access Excel) leads to very complicated audit capabilities in order to comply with modern data protection legislation e.g. GDPR.&#xA;Functionality in EUC needs to  be re-enginerred into enterprise systems or enterprise BI reporting."/>

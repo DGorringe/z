@@ -1,0 +1,8 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Head of People Development"
+    id="id-a2fdf754-5dc3-4bd5-b25e-88e36567f1c4">
+  <properties
+      key="Person Name"
+      value="Phil Brown"/>
+</archimate:BusinessRole>

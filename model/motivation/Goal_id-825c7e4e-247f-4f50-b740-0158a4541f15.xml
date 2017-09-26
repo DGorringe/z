@@ -1,0 +1,12 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="All enterpise business critical data shall compliant with data goverance polices"
+    id="id-825c7e4e-247f-4f50-b740-0158a4541f15"
+    documentation="When the need for shared business-critical data exists or arises, data governance procedures and responsibilities are in place to ensure that it is properly created, integrated, maintained, used, and shared throughout the business, from an overall enterprise perspective, in line with business strategy.">
+  <properties
+      key="Cultural goal Classification"
+      value="Data Governance"/>
+  <properties
+      key="Cultural goal Classification"
+      value="Master Data Management"/>
+</archimate:Goal>

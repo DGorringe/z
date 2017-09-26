@@ -1,0 +1,9 @@
+<archimate:Stakeholder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Regulation"
+    id="id-259b91d5-5dc8-49a0-a6ec-da31ec7c39b0"
+    documentation="Business Stakeholders and Subject Matter Experts that attended workshops">
+  <properties
+      key="Person Name"
+      value="Andrew Snelson"/>
+</archimate:Stakeholder>

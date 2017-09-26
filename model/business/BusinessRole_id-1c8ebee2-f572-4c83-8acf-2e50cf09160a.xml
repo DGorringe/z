@@ -1,0 +1,8 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Director of Waste Water Operations"
+    id="id-1c8ebee2-f572-4c83-8acf-2e50cf09160a">
+  <properties
+      key="Person Name"
+      value="Paul A Gibbs"/>
+</archimate:BusinessRole>

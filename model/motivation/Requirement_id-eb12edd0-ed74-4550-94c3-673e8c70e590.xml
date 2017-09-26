@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Completeness"
+    id="id-eb12edd0-ed74-4550-94c3-673e8c70e590"
+    documentation="Data will accurately reflect corresponding physical processes on the ground, or better support corresponding business objectives. Datasets will be scored according to formalised quality expectations, driving feedback loops to address systematic or behavioural data quality failings"/>

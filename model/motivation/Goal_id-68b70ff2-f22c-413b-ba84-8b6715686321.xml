@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ensure data capture processes as robust as possible"
+    id="id-68b70ff2-f22c-413b-ba84-8b6715686321"
+    documentation="Where the primary purpose is to support the manual capture of accurate data, then mechanisms, systems, and interfaces are designed (or re-designed) so as to make the data capture process as robust as possible.">
+  <properties
+      key="Cultural goal Classification"
+      value="Data Capture"/>
+</archimate:Goal>

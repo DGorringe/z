@@ -1,0 +1,12 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Think big, start small"
+    id="id-97dbf008-d58b-4bb3-9457-6f3bae8c39eb"
+    documentation="Enterprise data management is a continuous, incremental improvement process, rather than a distinct programme with a start and end. The challenges of data integration and data quality cannot be solved in one go. &#xA;&#xA;Current challenges will be addressed per subject area, not per system or business-unit. There will be a planned, phased approach, with the most cost effective subject areas given the highest priority after due consideration of cost v benefit v risk.&#xA;&#xA;Anglian Water will undertake data management activity in small, incremental steps. Each task will be specific, measurable, attainable, relevant, and timely (SMART). &#xA;&#xA;Although data management platforms and processes will encompass small areas of data at a time, they will be designed and built with the long-term in mind, such that they can grow as each new subject area is&#xA;brought in line.&#xA;&#xA;In order to be successful, it is vital not to attempt to“boil the ocean”. Data management requires long term objectives, but short term goals.">
+  <properties
+      key="Benefit"
+      value="Changing company culture can be hard , moving in small steps provides oppotunities to react to differences in personalities and prefered working practices to ensure the required change in business process can be achived as smoothly as possible."/>
+  <properties
+      key="Example"
+      value="Make changes to printed data capture forms to highlight complusory fields and provide options lists of valid values to circle or tick boxes to select option. Make the the form eaiser to do the right thing than do the wrong thing. Get feedback from field operatives to understand what worked and what didn't."/>
+</archimate:Principle>

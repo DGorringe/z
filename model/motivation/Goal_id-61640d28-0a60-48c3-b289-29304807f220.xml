@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Develop business logic to resolve inconsistencies between competing data sources"
+    id="id-61640d28-0a60-48c3-b289-29304807f220"
+    documentation="In order to resolve inconsistencies between competing sources of data, then business logic is developed in order to match, merge, and link data from each source.">
+  <properties
+      key="Cultural goal Classification"
+      value="Master Data Management"/>
+</archimate:Goal>

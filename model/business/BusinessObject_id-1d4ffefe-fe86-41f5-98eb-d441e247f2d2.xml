@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Standards"
+    id="id-1d4ffefe-fe86-41f5-98eb-d441e247f2d2"
+    documentation="Consisting of reference data ( models, documents)&#xA;Status information about reference data&#xA;Audit information about referrnce data"/>

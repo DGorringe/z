@@ -1,0 +1,12 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data governance policies, standards, and procedures are in place to ensure that data retention is planned"
+    id="id-b9cee90f-6f7f-4fd1-9d5b-b0cb92fef5e8"
+    documentation="Data governance policies, standards, and procedures are in place to ensure that data retention is planned, and that decisions are made early on in the data development and design process, so that for every project an agreement is reached on how to manage the storage of relevant data over its useful lifetime.">
+  <properties
+      key="Cultural goal Classification"
+      value="Data Retention and Archiving"/>
+  <properties
+      key="Cultural goal Classification"
+      value="Data Governance"/>
+</archimate:Goal>

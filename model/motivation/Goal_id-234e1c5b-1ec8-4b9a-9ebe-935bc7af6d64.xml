@@ -1,0 +1,5 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data-Centric Development"
+    id="id-234e1c5b-1ec8-4b9a-9ebe-935bc7af6d64"
+    documentation="The business strategy gives rise to specific goals and objectives&#xA;Goals and objectives shape enterprise information requirements&#xA;Data is modelled from an enterprise perspective&#xA;Projects are data-driven&#xA;Development of specific applications is aligned to the enterprise data architecture model&#xA;Benefits of this approach:&#xA;Data is tailored to the enterprise requirements&#xA;Systems support enterprise data needs and processes&#xA;Maximum reuse of data"/>

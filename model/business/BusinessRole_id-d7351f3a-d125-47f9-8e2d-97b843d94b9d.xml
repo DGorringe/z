@@ -1,0 +1,8 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Enterprise Content Manager"
+    id="id-d7351f3a-d125-47f9-8e2d-97b843d94b9d">
+  <properties
+      key="Person Name"
+      value="Susan Bradley"/>
+</archimate:BusinessRole>

@@ -1,0 +1,8 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Existing system data architecture is sufficiently mapped out, documented, and understood, to allow data to be archived with confidence."
+    id="id-a9ddcaf8-860a-4219-a3c3-54df950d3a25">
+  <properties
+      key="Cultural goal Classification"
+      value="Data Retention and Archiving"/>
+</archimate:Goal>

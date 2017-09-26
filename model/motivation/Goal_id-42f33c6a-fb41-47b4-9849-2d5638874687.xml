@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Rationalise and optimise Health and Safety information into structured datasets"
+    id="id-42f33c6a-fb41-47b4-9849-2d5638874687"
+    documentation="Where relevant, information regarding Health &amp; Safety (procedures, form templates, guidance, work instructions, training, competency quizzes, risk assessments, material safety datasheets, etc.), is rationalised and optimised into structured datasets, which can be fed into formatted documents rather than embedded within the documents themselves.">
+  <properties
+      key="Cultural goal Classification"
+      value="Unstructured Data"/>
+</archimate:Goal>

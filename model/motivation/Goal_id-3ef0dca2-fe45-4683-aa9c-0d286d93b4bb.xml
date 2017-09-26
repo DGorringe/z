@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Create Data governance policies, standards, and procedures to ensure that metadata is captured"
+    id="id-3ef0dca2-fe45-4683-aa9c-0d286d93b4bb"
+    documentation="Data governance policies, standards, and procedures are in place to ensure that metadata is captured according to an established a strategy, scope, and architectural approach.">
+  <properties
+      key="Cultural goal Classification"
+      value="Metadata Management"/>
+</archimate:Goal>

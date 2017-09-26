@@ -1,0 +1,12 @@
+<archimate:Stakeholder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Anglian Water Infra Data Manager"
+    id="id-8be6fd5e-c855-471b-85f8-8133f84c79b0"
+    documentation="GIS">
+  <properties
+      key="Person Name"
+      value="M Wingrell"/>
+  <properties
+      key="Organisation Unit"
+      value="Asset Operational Management"/>
+</archimate:Stakeholder>

@@ -1,0 +1,8 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Head of Customer Services"
+    id="id-3b2cd1d8-7b88-4bc2-a2fe-220430fc5356">
+  <properties
+      key="Person Name"
+      value="Jane Taylor"/>
+</archimate:BusinessRole>

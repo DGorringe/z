@@ -1,0 +1,9 @@
+<archimate:Stakeholder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Spitfire"
+    id="id-e1d15fc3-28fd-4bd2-b141-c64285827a81"
+    documentation="Business Stakeholders and Subject Matter Experts that attended workshops">
+  <properties
+      key="Person Name"
+      value="Matt Walker"/>
+</archimate:Stakeholder>

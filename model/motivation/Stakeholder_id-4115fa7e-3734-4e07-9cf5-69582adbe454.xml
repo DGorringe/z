@@ -1,0 +1,17 @@
+<archimate:Stakeholder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Anglian Water"
+    id="id-4115fa7e-3734-4e07-9cf5-69582adbe454">
+  <properties
+      key="Person Name"
+      value="Martyn Sadler"/>
+  <properties
+      key="Person Name"
+      value="Jim Geatches"/>
+  <properties
+      key="Person Name"
+      value="Michelle Hollamby"/>
+  <properties
+      key="Person Name"
+      value="Liam Moat"/>
+</archimate:Stakeholder>

@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Create a set data security policies and standards"
+    id="id-8e26d632-e6d6-4eb2-8181-5e947bc975b8"
+    documentation="There is an ongoing, collaborative effort involving security administrators, data owners, internal and external audit teams, and the legal department to define a comprehensive set of data security policies and standards, in line with overall business strategy which ensures the right people can use and update data in the right way and inappropriate access is restricted, without stifling innovation.&#xA;Awareness of data security standards and policies is actively promoted so that:&#xA;•&#x9; People recognise that they own data. Appointed data owners recognise that they are held accountable in the case of a security breach, and help to drive data security controls accordingly. They recognise that they must be a responsible trustee of sensitive data, and the importance of respecting the privacy and confidentiality of all parties.&#xA;•&#x9; People recognise where their data is going. External data flows are documented, risks are understood, and mitigating controls are put into practice.&#xA;•&#x9; People recognise how to handle data. Data governance procedures are in place to ensure that security standards and policies are available and adhered to.">
+  <properties
+      key="Cultural goal Classification"
+      value="Data Security"/>
+</archimate:Goal>

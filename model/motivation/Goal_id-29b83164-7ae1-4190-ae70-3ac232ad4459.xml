@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Having the same goals measured and rewarded consistently"
+    id="id-29b83164-7ae1-4190-ae70-3ac232ad4459"
+    documentation="Digital data captured about the work we do and the quality of information we process can be used to measure and reward performance consistently, transparently and non-subjectively.">
+  <properties
+      key="Cultural goal Classification"
+      value="Collaboration"/>
+</archimate:Goal>

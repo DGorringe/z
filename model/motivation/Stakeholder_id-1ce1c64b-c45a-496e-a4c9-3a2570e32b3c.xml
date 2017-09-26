@@ -1,0 +1,8 @@
+<archimate:Stakeholder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vendor IBM Information Management Sales"
+    id="id-1ce1c64b-c45a-496e-a4c9-3a2570e32b3c">
+  <properties
+      key="Person Name"
+      value="Mike Hudgell"/>
+</archimate:Stakeholder>

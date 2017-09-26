@@ -1,0 +1,15 @@
+<archimate:Stakeholder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Information Competency Centre"
+    id="id-984229b2-e2e4-4f57-b5ce-09c17278b5f7"
+    documentation="BICCC">
+  <properties
+      key="Person Name"
+      value="Brian Lumb"/>
+  <properties
+      key="Person Name"
+      value="Shani Markham"/>
+  <properties
+      key="Person Name"
+      value="Marc Atton"/>
+</archimate:Stakeholder>

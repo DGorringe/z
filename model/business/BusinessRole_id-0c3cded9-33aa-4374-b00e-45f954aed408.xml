@@ -1,0 +1,8 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Regional Supply Asset Manager"
+    id="id-0c3cded9-33aa-4374-b00e-45f954aed408">
+  <properties
+      key="Person Name"
+      value="Kevin Fish"/>
+</archimate:BusinessRole>

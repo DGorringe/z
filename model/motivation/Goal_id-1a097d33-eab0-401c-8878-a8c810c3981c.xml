@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="All Metadata is stored centrally and available to authorised users, and easily searchable"
+    id="id-1a097d33-eab0-401c-8878-a8c810c3981c"
+    documentation="Metadata, particularly the project documentation and specifications relating to data modelling and design (e.g. business definitions, relationship diagrams, data architecture, system architecture, business logic, etc.), is stored centrally, available to all who need it, and easily searchable.">
+  <properties
+      key="Cultural goal Classification"
+      value="Metadata Management"/>
+</archimate:Goal>

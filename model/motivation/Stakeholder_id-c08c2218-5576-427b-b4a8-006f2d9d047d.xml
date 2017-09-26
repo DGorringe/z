@@ -1,0 +1,20 @@
+<archimate:Stakeholder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Enterprise Information Management Alliance Capgemini"
+    id="id-c08c2218-5576-427b-b4a8-006f2d9d047d">
+  <properties
+      key="Person Name"
+      value="Andy Yearsley"/>
+  <properties
+      key="Person Name"
+      value="Lee Wellbrook"/>
+  <properties
+      key="Person Name"
+      value="Paul Smith"/>
+  <properties
+      key="Person Name"
+      value="Gareth Cross"/>
+  <properties
+      key="Person Name"
+      value="Anuj Chaturvedi (Head of Data Management UK)"/>
+</archimate:Stakeholder>

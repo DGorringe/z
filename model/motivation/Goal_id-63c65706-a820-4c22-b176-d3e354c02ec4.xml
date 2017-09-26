@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Create role based Identity Management capability"
+    id="id-63c65706-a820-4c22-b176-d3e354c02ec4"
+    documentation="An Identity Management capability allows permissions and privileges to be defined and managed by role group hierarchies, whereby data access is linked to business function, rather than managed per user.">
+  <properties
+      key="Cultural goal Classification"
+      value="Data Security"/>
+</archimate:Goal>

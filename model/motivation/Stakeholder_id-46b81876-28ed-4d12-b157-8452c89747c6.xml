@@ -1,0 +1,14 @@
+<archimate:Stakeholder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Senior Enterprise Architect and Strategy Owner"
+    id="id-46b81876-28ed-4d12-b157-8452c89747c6">
+  <properties
+      key="Person Name"
+      value="Neil Barnsley"/>
+  <properties
+      key="Mobile Telephone"
+      value="07736 454237"/>
+  <properties
+      key="Email"
+      value="nBarnsley@anglianwater.co.uk"/>
+</archimate:Stakeholder>

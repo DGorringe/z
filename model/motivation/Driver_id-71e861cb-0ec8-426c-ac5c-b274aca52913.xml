@@ -1,0 +1,12 @@
+<archimate:Driver
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Quality"
+    id="id-71e861cb-0ec8-426c-ac5c-b274aca52913"
+    documentation="We will measure the quality of our information and continually increase it to the level the business requires. The quality of information we use, must be as good as the quality of water we supply">
+  <properties
+      key="Commitment Number"
+      value="1"/>
+  <properties
+      key="Information Charter Commitment"
+      value="Y"/>
+</archimate:Driver>

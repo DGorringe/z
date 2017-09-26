@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Provide data entities that can support data requirements specified by Open Water operator"
+    id="id-727f08cc-9890-4101-b727-59949ed7eaae"
+    documentation="We will ensure all key data requirements mandated by the Open Water operator are met, thereby allowing Anglian Water to transact successfully in the new open market, ensuring the correct settlement is achieved and financial penalties and reputational damage are avoided. Specifically, we will be able to create and repackage data in the required format and upload complete and accurate information as and when required."/>

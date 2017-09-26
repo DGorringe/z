@@ -1,0 +1,12 @@
+<archimate:Stakeholder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Anglian Water Non-Infra Data Manager"
+    id="id-4b258667-fad2-4f65-90ad-9b96de742af7"
+    documentation="SAP">
+  <properties
+      key="Person Name"
+      value="F Smith"/>
+  <properties
+      key="Organisation Unit"
+      value="Asset Operational Management"/>
+</archimate:Stakeholder>

@@ -1,0 +1,8 @@
+<archimate:Stakeholder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vendor SAP Business Analytics"
+    id="id-3fd3dff1-43f6-4d8b-9dbe-6db615e92f9e">
+  <properties
+      key="Person Name"
+      value="Gordon Martin"/>
+</archimate:Stakeholder>

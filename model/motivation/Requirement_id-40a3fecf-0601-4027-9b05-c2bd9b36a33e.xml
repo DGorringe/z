@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Security Policy"
+    id="id-40a3fecf-0601-4027-9b05-c2bd9b36a33e"
+    documentation="A comprehensive set of data security policies and standards, in line with overall business strategy, to ensure the right people can use and update data in the right way and inappropriate access is restricted, without stifling innovation.&#xA;&#xA;An incremental collection of policies to consistently govern the security of data (not just systems) within the organisation to a defined set of standards, including: data classification, access, authentication, authorisation, encryption, single sign-on, identity management, cloud systems, etc. and the roles, responsibilities, accountability, and scope thereof."/>

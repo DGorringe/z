@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Technology alone will not solve the issues"
+    id="id-8c14cd48-c81b-4b03-9e72-e9600e0aca65"
+    documentation="The functions of data management (e.g. enterprise data modelling, master data management, data&#xA;quality assessment, etc.) are not strictly technological capabilities, but rather the creation and adoption of rules (policies, standards, and procedures) that govern how Anglian Water manages and improves the development of its data assets.&#xA;&#xA;These rules will govern how Anglian Water manages its data from now on, and will also be applied incrementally to existing datasets to resolve existing challenges over time.&#xA;&#xA;Technological solutions exist which can aid the automation of these improvement processes, but fundamentally it is a cultural change.&#xA;&#xA;Good data management relies largely on organisational change – policies, standards, and procedures, backed by effective governance and ownership"/>

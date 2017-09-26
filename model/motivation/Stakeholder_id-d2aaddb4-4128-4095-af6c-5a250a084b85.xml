@@ -1,0 +1,14 @@
+<archimate:Stakeholder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aiimi EIM SME"
+    id="id-d2aaddb4-4128-4095-af6c-5a250a084b85">
+  <properties
+      key="Person Name"
+      value="Steve Salvin"/>
+  <properties
+      key="Email"
+      value="ssalvin@aiimi.com"/>
+  <properties
+      key="Mobile Telephone"
+      value="07919 620380"/>
+</archimate:Stakeholder>

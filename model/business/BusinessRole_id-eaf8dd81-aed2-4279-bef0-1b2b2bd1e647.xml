@@ -1,0 +1,8 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Asset Delivery Manager"
+    id="id-eaf8dd81-aed2-4279-bef0-1b2b2bd1e647">
+  <properties
+      key="Person Name"
+      value="Leigh Durrant"/>
+</archimate:BusinessRole>

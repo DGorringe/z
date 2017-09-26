@@ -1,0 +1,12 @@
+<archimate:Driver
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Governed and Compliant"
+    id="id-f2a221ca-ed99-44b3-9d42-29f9378cd4e3"
+    documentation="We will ensure all information is governed and compliant to corporate, regulatory, legal, statutory and environmental mandates">
+  <properties
+      key="Commitment Number"
+      value="3"/>
+  <properties
+      key="Information Charter Commitment"
+      value="Y"/>
+</archimate:Driver>

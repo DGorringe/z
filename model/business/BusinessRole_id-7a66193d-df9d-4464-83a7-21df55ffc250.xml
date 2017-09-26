@@ -1,0 +1,8 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Director @one Alliance"
+    id="id-7a66193d-df9d-4464-83a7-21df55ffc250">
+  <properties
+      key="Person Name"
+      value="Dale Evans"/>
+</archimate:BusinessRole>

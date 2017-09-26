@@ -1,0 +1,8 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data owners are identified (by role) in all relevant data development project documentation and specifications."
+    id="id-1125a206-05ab-48b2-a42c-913eef306c1c">
+  <properties
+      key="Cultural goal Classification"
+      value="Data Ownership"/>
+</archimate:Goal>

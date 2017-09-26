@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Policeis"
+    id="id-caed3fad-6fbb-453a-b299-d5a0435f68c0"
+    documentation="Consisting of reference data ( models, documents)&#xA;Status information about reference data&#xA;Audit information about referrnce data"/>

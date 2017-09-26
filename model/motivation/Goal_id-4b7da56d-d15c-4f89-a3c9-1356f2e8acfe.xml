@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Designate system of record for each entity"
+    id="id-4b7da56d-d15c-4f89-a3c9-1356f2e8acfe"
+    documentation="Where a new or existing line of business system is designated as a master system or ‘system of record’, then its data architecture is designed or modified to cater for the appropriate levels of detail (granularity and attribution) required by all satellite processes, so that a single business system becomes the central point of reference.">
+  <properties
+      key="Cultural goal Classification"
+      value="Master data Management"/>
+</archimate:Goal>

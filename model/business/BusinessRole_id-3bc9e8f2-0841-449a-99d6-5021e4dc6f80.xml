@@ -1,0 +1,8 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Head of Asset Planning"
+    id="id-3bc9e8f2-0841-449a-99d6-5021e4dc6f80">
+  <properties
+      key="Person Name"
+      value="Matt Kirk"/>
+</archimate:BusinessRole>

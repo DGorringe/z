@@ -1,0 +1,8 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Director of Human Resources"
+    id="id-926c7a21-d545-4af4-a3be-ce24e8ca008f">
+  <properties
+      key="Person Name"
+      value="Fiona Guthrie"/>
+</archimate:BusinessRole>

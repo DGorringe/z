@@ -1,0 +1,14 @@
+<archimate:Stakeholder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Anglian Water Head of Information Services"
+    id="id-526c36fb-5b67-4d53-aa1a-ffb6dc448ded">
+  <properties
+      key="Person Name"
+      value="Iain Fry"/>
+  <properties
+      key="Mobile Telephone"
+      value="07850 921763"/>
+  <properties
+      key="Email"
+      value="iFry@anglianwater.co.uk,"/>
+</archimate:Stakeholder>

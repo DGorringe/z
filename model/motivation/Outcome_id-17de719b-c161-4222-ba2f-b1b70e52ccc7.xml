@@ -1,0 +1,9 @@
+<archimate:Outcome
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Resilient Services"
+    id="id-17de719b-c161-4222-ba2f-b1b70e52ccc7"
+    documentation="Our services coup with the effects of disruptive events. In particular increasing servre weather events.We plan ahead for the impact of our changing climate.">
+  <properties
+      key="Outcome Classification"
+      value="Your Service"/>
+</archimate:Outcome>

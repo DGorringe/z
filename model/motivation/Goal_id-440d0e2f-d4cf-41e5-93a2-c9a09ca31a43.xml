@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Focus on outcomes"
+    id="id-440d0e2f-d4cf-41e5-93a2-c9a09ca31a43"
+    documentation="By starting at the end and understanding what information we need to forecast/report on our performance, we drive out new requirements for data capture and open up new opportunities for automation.">
+  <properties
+      key="Cultural goal Classification"
+      value="Transformation"/>
+</archimate:Goal>

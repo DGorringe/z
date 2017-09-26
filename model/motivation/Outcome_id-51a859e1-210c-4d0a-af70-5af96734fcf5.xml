@@ -1,0 +1,9 @@
+<archimate:Outcome
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Satisfied Customers"
+    id="id-51a859e1-210c-4d0a-af70-5af96734fcf5"
+    documentation="Ensuring you are very satisfied with your service">
+  <properties
+      key="Outcome Classification"
+      value="Your Service"/>
+</archimate:Outcome>

@@ -1,0 +1,5 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Produce data governance procedures"
+    id="id-d26c2bd0-fcf0-4899-9ef6-cf33b174673a"
+    documentation="Data governance procedures and responsibilities ensure that, in terms of the creation, integration, maintenance, and use of data, projects not only consider immediate, short-term, local requirements, but also consider the wider enterprise information or data integration requirements, in line with overall business strategy. Such considerations are not to be unduly overridden by short-term time or budget constraints that disregard longer-term cost to the business of future data integration."/>

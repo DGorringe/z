@@ -1,0 +1,9 @@
+<archimate:Stakeholder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Legal"
+    id="id-507870a2-fe64-4107-beb4-dede085178d3"
+    documentation="Business Stakeholders and Subject Matter Experts that attended workshops">
+  <properties
+      key="Person Name"
+      value="Giles Brittain"/>
+</archimate:Stakeholder>

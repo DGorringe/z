@@ -1,0 +1,8 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SAP Project Manager"
+    id="id-babb3cf9-7a81-4797-8d33-0dba5b9ebb00">
+  <properties
+      key="Person Name"
+      value="Andrew Kennedy"/>
+</archimate:BusinessRole>

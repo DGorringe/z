@@ -1,0 +1,9 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Owned by the Business (Supported by IT)"
+    id="id-ca3110c2-5ed8-4690-a3b0-5d976788bf32"
+    documentation="Anglian Water will formalise the ownership of its data assets so that it resides entirely with the business and not with IT. The IT function will be responsible and accountable only for the operational management of the data lifecycle (e.g. storage, archiving, etc.).&#xA;&#xA;Ownership will be formalised in accordance with data governance principles, i.e. the appointment of data stewards and information asset owners.&#xA;&#xA;Ownership will be assigned by subject area and business entity, not by system or business-unit.&#xA;&#xA;For every subject area and business entity, the owner will be clearly identified, and known to all.&#xA;&#xA;Clear, unambiguous ownership of data subject areas by appointed subject matter experts ensures that data is managed consistently, by those who are accountable for it, in support of the overall business strategy.">
+  <properties
+      key="Benefit"
+      value="Everything we do should be to support business processes. The business are the exprts in how thier processes work. IT provides systems that help automate parts of the business process."/>
+</archimate:Principle>

@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Retention in primary storage"
+    id="id-d3c239f8-5877-40f7-81bf-bc85a11d725f"
+    documentation="Data is only retained in primary storage as long as its maintenance and performance cost does not exceed its value to the organisation."/>

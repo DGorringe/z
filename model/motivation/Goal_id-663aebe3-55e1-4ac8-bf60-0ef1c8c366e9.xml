@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Provide immediate feedback to users performing data correction tasks"
+    id="id-663aebe3-55e1-4ac8-bf60-0ef1c8c366e9"
+    documentation="The act of data submission, and in particular submission of a data correction, generates some type of immediate confirmation message to the user making the submission, to the effect that their submission is acknowledged, recognised, and accepted, thereby promoting the value of their contribution.">
+  <properties
+      key="Cultural goal Classification"
+      value="Data Validation"/>
+</archimate:Goal>

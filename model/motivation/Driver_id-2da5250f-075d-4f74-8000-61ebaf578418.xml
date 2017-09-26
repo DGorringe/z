@@ -1,0 +1,12 @@
+<archimate:Driver
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Use a common language"
+    id="id-2da5250f-075d-4f74-8000-61ebaf578418"
+    documentation="We will ensure people use a common language when discussing information across the business. It is essential that we all use the same information definitions and terminology to facilitate working discussions, help resolve conflict and improve knowledge sharing">
+  <properties
+      key="Commitment Number"
+      value="7"/>
+  <properties
+      key="Information Charter Commitment"
+      value="Y"/>
+</archimate:Driver>

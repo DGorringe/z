@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Provide capability to audit who does what"
+    id="id-af4b2076-9409-409f-be1e-4c95b1da10f9"
+    documentation="This can be used to spot mis-use fo systems and trigger education and measure/reward dilegent behaviour"/>

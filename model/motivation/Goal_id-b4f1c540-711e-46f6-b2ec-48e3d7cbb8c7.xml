@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Provide a master data management capability"
+    id="id-b4f1c540-711e-46f6-b2ec-48e3d7cbb8c7"
+    documentation="Where different business units, processes, and systems share business-critical data from the same domain or subject area (e.g. Asset, Job, Customer, Employee, etc.), then authoritative ‘golden’ data stores are created and maintained. Data is propagated out to all the satellite systems that require it, from that single centralised location, in order to ensure consistency and eradicate redundancy and fragmentation">
+  <properties
+      key="Cultural goal Classification"
+      value="Master Data Management"/>
+</archimate:Goal>

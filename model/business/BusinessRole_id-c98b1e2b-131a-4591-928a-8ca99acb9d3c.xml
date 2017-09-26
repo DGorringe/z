@@ -1,0 +1,8 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Operations Manager"
+    id="id-c98b1e2b-131a-4591-928a-8ca99acb9d3c">
+  <properties
+      key="Person Name"
+      value="Mark Atton"/>
+</archimate:BusinessRole>

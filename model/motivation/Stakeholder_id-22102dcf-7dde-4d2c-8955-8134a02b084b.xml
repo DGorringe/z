@@ -1,0 +1,9 @@
+<archimate:Stakeholder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Telematics"
+    id="id-22102dcf-7dde-4d2c-8955-8134a02b084b"
+    documentation="Business Stakeholders and Subject Matter Experts that attended workshops">
+  <properties
+      key="Person Name"
+      value="Stuart Lightbody"/>
+</archimate:Stakeholder>

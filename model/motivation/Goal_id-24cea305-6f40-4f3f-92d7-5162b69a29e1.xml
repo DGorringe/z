@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Building on ideas to create something new"
+    id="id-24cea305-6f40-4f3f-92d7-5162b69a29e1"
+    documentation="Developing capabilities that enable the simultaneous streaming of live information through commonly used applications at home (iMessage, WhatsApp, SnapChat, Twitter, Facebook, etc.), ensuring customers are alerted and continuously informed about issues that may affect the quality of their water supply.">
+  <properties
+      key="Cultural goal Classification"
+      value="Innovation"/>
+</archimate:Goal>

@@ -1,0 +1,5 @@
+<archimate:Meaning
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Uniquness"
+    id="id-002c1fd9-43b2-41fd-b658-7581098ecff4"
+    documentation="A measure showing whether the data is recorded more than once (the inverse of a measure of duplication)."/>

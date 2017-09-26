@@ -1,0 +1,5 @@
+<archimate:Deliverable
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Lifecycle Matrix"
+    id="id-77d05474-0ff2-463b-b078-b897cbbb38a6"
+    documentation="The data lifecycle matrix is a lower layer of documentation to supplement the data model layer.&#xA;Once each data entity has been defined, standardised, and modelled, the data lifecycle matrix identifies and captures all the key systems and data points in which those data entities currently live, spread across the entire business.&#xA;It also identifies the key process points which result in a read / write operation on that piece of information, and the business roles that carry out those read / write operations.&#xA;The intention is to document the relevant aspects of data lineage, data flow, and data transformation, across key systems."/>

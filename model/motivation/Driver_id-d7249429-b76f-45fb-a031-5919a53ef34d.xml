@@ -1,0 +1,12 @@
+<archimate:Driver
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Always available and accessable"
+    id="id-d7249429-b76f-45fb-a031-5919a53ef34d"
+    documentation="We will ensure information will always be available and accessible ‘on tap’ to those who need it, whenever, wherever and however it is needed. Resolving issues with access to information will be prioritised in the same way we manage interruptions to supply">
+  <properties
+      key="Commitment Number"
+      value="6"/>
+  <properties
+      key="Information Charter Commitment"
+      value="Y"/>
+</archimate:Driver>

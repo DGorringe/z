@@ -1,0 +1,10 @@
+<archimate:ArchimateModel
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AW Data Management"
+    id="id-61181690-15a9-4afa-b929-e760032f630a"
+    purpose="Part of the Anglian Water Integrated Technology  Strategy consisting of 4 components Business Information, Content, Mobile and Data Management&#xA;&#xA;The purpose of the data strategy is to document a set of commonly agreed principles, capabilities and activities that will ensure we collectively deploy the right organisational capability needed to meet all of the business’ requirements.&#xA;&#xA;Aims&#xA;To establish the data management capabilities that will need to be adopted by in order to meet the challenges faced by the business when managing data effectively at the enterprise level.&#xA;To establish a roadmap for change that is achievable and delivers business benefit in the priority that the business needs it.&#xA;To serve as a guide for all those involved in designing and deploying data-driven solutions over the course of this AMP period, and input to those involved in the preparation of PR19 and business planning for AMP7.&#xA;&#xA;Mission:&#xA;Fully interconnect our enterprise data, develop a single golden record for master data and drive continuous improvements in data quality&#xA;&#xA;Dependencies&#xA;This Data Strategy is part of a suite of strategies that includes Business Intelligence, Content, and Mobile. An Integrated Technology Strategy will incorporate and align all of the strategy roadmaps, ensuring we develop a coherent plan that is deliverable, affordable, and meet all business requirements. An organisational capability plan will be developed in parallel to the project work that is being carried out in the pilot areas, ensuring that we have the right leadership, governance, people, skills and communication in place to make this a sustainable and business-as-usual way of working for years to come."
+    version="4.0.0">
+  <properties
+      key="Source"
+      value="ANGLIAN WATER_DATA STRATEGY_270716_v1.0"/>
+</archimate:ArchimateModel>

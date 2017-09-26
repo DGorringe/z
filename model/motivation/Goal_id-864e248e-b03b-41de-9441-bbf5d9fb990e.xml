@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Thinking through all intended consequences"
+    id="id-864e248e-b03b-41de-9441-bbf5d9fb990e"
+    documentation="An information model that interconnects all our data from all our core business systems can be used to create dynamic TOTEX asset plans, used by business subject matter experts through the asset management lifecycle. As information is changed in one area, the impact of that can be seen by everyone else.">
+  <properties
+      key="Cultural goal Classification"
+      value="Collaboration"/>
+</archimate:Goal>

@@ -1,0 +1,8 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Head of Water Quality"
+    id="id-e5cbca4a-8e0d-4663-a969-6e32fb85a1a9">
+  <properties
+      key="Person Name"
+      value="Robin Price"/>
+</archimate:BusinessRole>

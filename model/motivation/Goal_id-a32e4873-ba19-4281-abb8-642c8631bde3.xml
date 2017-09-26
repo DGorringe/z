@@ -1,0 +1,8 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data owners drive the data security controls, and are held accountable in the case of a security breach."
+    id="id-a32e4873-ba19-4281-abb8-642c8631bde3">
+  <properties
+      key="Cultural goal Classification"
+      value="Data Ownership"/>
+</archimate:Goal>

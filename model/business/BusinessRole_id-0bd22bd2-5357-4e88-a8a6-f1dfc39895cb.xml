@@ -1,0 +1,8 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Head of Business Performance"
+    id="id-0bd22bd2-5357-4e88-a8a6-f1dfc39895cb">
+  <properties
+      key="Person Name"
+      value="Phil Trussell"/>
+</archimate:BusinessRole>

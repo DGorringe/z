@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Enable a more efficient organisation"
+    id="id-c82dc5a2-5e37-43ef-af00-d35175183632"
+    documentation="Enable a more efficient organisation, because we will not be wasting time and money on searching, duplicating and recreating information">
+  <properties
+      key="Cultural goal Classification"
+      value="EIM"/>
+</archimate:Goal>

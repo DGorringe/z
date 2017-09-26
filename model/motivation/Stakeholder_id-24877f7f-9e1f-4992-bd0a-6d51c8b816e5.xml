@@ -1,0 +1,18 @@
+<archimate:Stakeholder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Asset SME"
+    id="id-24877f7f-9e1f-4992-bd0a-6d51c8b816e5"
+    documentation="Business Stakeholders and Subject Matter Experts that attended workshops">
+  <properties
+      key="Person Name"
+      value="Paul Gomez"/>
+  <properties
+      key="Person Name"
+      value="Chris Royce"/>
+  <properties
+      key="Person Name"
+      value="Andy Smith"/>
+  <properties
+      key="Person Name"
+      value="Tim Acland"/>
+</archimate:Stakeholder>

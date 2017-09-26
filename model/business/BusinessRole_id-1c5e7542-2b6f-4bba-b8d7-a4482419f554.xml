@@ -1,0 +1,8 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Head of Recycling Environmental Services"
+    id="id-1c5e7542-2b6f-4bba-b8d7-a4482419f554">
+  <properties
+      key="Person Name"
+      value="Simon Black"/>
+</archimate:BusinessRole>

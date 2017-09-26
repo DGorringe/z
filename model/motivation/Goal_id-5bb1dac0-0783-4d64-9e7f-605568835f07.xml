@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="All interfacing to third party clould systems must use API base integration functionality"
+    id="id-5bb1dac0-0783-4d64-9e7f-605568835f07"
+    documentation="Where operational processes depend on the transfer of data to and from external third party cloud systems, then API-based integration functionality is a pre-requisite, and such functionality will be requested from existing third party vendors so that data can be transferred automatically (e.g. Barclaycard, Fraedom, etc.) to drive down manual effort and human error.">
+  <properties
+      key="Cultural goal Classification"
+      value="System Integration"/>
+</archimate:Goal>

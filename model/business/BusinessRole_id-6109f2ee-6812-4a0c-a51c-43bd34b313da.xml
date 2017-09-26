@@ -1,0 +1,8 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Development Manager"
+    id="id-6109f2ee-6812-4a0c-a51c-43bd34b313da">
+  <properties
+      key="Person Name"
+      value="John Bennett"/>
+</archimate:BusinessRole>

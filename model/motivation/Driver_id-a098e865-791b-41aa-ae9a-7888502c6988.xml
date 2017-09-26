@@ -1,0 +1,12 @@
+<archimate:Driver
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Continually increase the value of our information asset"
+    id="id-a098e865-791b-41aa-ae9a-7888502c6988"
+    documentation="We will ensure people continually increase the value of our information asset">
+  <properties
+      key="Commitment Number"
+      value="9"/>
+  <properties
+      key="Information Charter Commitment"
+      value="Y"/>
+</archimate:Driver>

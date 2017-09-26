@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Correct data incompleteness, inaccuracy, or outdatedness at root-cause"
+    id="id-68048f5e-7ea3-46a7-ab82-34e5d9a7342a"
+    documentation="Where data incompleteness, inaccuracy, or outdatedness can be traced to poor business logic or lack of data integration, then systematic failings are addressed, managed, and resolved, so as to address the root causes of data quality at the point of origin, rather than cleanse the data at the point of consumption.&#xA;&#xA;Where data incompleteness, inaccuracy, or outdatedness can be traced to poor data capture, then behavioural failings are addressed, managed, and resolved, so as to address the root causes of data quality at the point of origin, rather than cleanse the data at the point of consumption.">
+  <properties
+      key="Cultural goal Classification"
+      value="Data Quality"/>
+</archimate:Goal>

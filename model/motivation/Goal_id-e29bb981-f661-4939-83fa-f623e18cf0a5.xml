@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Seizing opportunities from often mundane situations"
+    id="id-e29bb981-f661-4939-83fa-f623e18cf0a5"
+    documentation="During a recent proof of concept to explore the value of measuring information, we identified a HAWK page that was taking over a minute to load. After analysis we found that the page was trying to load five web parts that did not exist and this was subsequently fixed. The resulting page (that was being loaded 500 times per day in the field) now takes less than one second to load.">
+  <properties
+      key="Cultural goal Classification"
+      value="Innovation"/>
+</archimate:Goal>

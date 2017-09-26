@@ -1,0 +1,8 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Treasurer"
+    id="id-0f6b5b6e-d410-4941-9c89-63c722c8e920">
+  <properties
+      key="Person Name"
+      value="Jane Pilcher"/>
+</archimate:BusinessRole>

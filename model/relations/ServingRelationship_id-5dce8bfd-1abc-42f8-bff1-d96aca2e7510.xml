@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Represents EADM"
+    id="id-5dce8bfd-1abc-42f8-bff1-d96aca2e7510">
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-f24f3a91-a43d-4ee9-8dc4-2840f6e9e4b8.xml#id-f24f3a91-a43d-4ee9-8dc4-2840f6e9e4b8"/>
+  <target
+      xsi:type="archimate:BusinessCollaboration"
+      href="BusinessCollaboration_id-c68a8457-79ec-4d10-b7a9-21197f9f85ec.xml#id-c68a8457-79ec-4d10-b7a9-21197f9f85ec"/>
+</archimate:ServingRelationship>

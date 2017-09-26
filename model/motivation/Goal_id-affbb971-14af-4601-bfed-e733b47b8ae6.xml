@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data ownership is formalised and assigned in accordance with data governance principles"
+    id="id-affbb971-14af-4601-bfed-e733b47b8ae6"
+    documentation="The appointment of data stewards and information asset owners.">
+  <properties
+      key="Cultural goal Classification"
+      value="Data Ownership"/>
+</archimate:Goal>

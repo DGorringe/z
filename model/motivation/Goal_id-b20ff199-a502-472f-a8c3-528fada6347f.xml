@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Identify location of all attributes of data entities"
+    id="id-b20ff199-a502-472f-a8c3-528fada6347f"
+    documentation="The fundamental questions related to shared data integration are always asked and answered, i.e.: what data is required for this specific need, and how does this need overlap with other people’s needs in the business?&#xA;What part of the data is describing the same person, place or thing as data that already exists within the business? Where does that data orignate, and how does each instance differ? Which instance is of the highest quality? How can inconsistencies be reconciled? How can we ensure everyone receives and uses data from the prescribed source, and how will we identify where they do not?">
+  <properties
+      key="Cultural goal Classification"
+      value="Master Data Management"/>
+</archimate:Goal>

@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Automatically transfer shared business-critical transaction data via API"
+    id="id-5d92523b-7cab-43c5-83a3-2e9abb9204fa"
+    documentation="Where two or more separate line of business systems must hold the same business-critical transactional data for operational reasons, application interfaces are created so that data is transferred from one to the other automatically, rather than via manual extracts, downloads, uploads, or copy and paste activity, to drive down manual effort and human error.">
+  <properties
+      key="Cultural goal Classification"
+      value="System Integration"/>
+</archimate:Goal>

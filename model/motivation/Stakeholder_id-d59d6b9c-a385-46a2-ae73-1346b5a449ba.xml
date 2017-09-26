@@ -1,0 +1,14 @@
+<archimate:Stakeholder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Anglian Water Information Transformation Manager"
+    id="id-d59d6b9c-a385-46a2-ae73-1346b5a449ba">
+  <properties
+      key="Person Name"
+      value="Rachel Butler"/>
+  <properties
+      key="Email"
+      value="rButler2@anglianwater.co.uk"/>
+  <properties
+      key="Mobile Telephone"
+      value="07889 326474"/>
+</archimate:Stakeholder>

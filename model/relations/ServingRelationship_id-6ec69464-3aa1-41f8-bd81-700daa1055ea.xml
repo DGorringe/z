@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Represents subject mater Area"
+    id="id-6ec69464-3aa1-41f8-bd81-700daa1055ea">
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-3c805189-7855-4146-80f7-e9527ff3a238.xml#id-3c805189-7855-4146-80f7-e9527ff3a238"/>
+  <target
+      xsi:type="archimate:BusinessCollaboration"
+      href="BusinessCollaboration_id-c68a8457-79ec-4d10-b7a9-21197f9f85ec.xml#id-c68a8457-79ec-4d10-b7a9-21197f9f85ec"/>
+</archimate:ServingRelationship>

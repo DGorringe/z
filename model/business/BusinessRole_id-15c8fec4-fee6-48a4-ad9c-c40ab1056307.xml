@@ -1,0 +1,8 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Asset Maintenance Information Manager"
+    id="id-15c8fec4-fee6-48a4-ad9c-c40ab1056307">
+  <properties
+      key="Person Name"
+      value="Matt Edwards"/>
+</archimate:BusinessRole>

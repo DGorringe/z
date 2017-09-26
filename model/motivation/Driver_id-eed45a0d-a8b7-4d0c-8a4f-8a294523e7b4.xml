@@ -1,0 +1,12 @@
+<archimate:Driver
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Interconnected"
+    id="id-eed45a0d-a8b7-4d0c-8a4f-8a294523e7b4"
+    documentation="We will ensure all Information is interconnected to form a single network an information model that serves as a map, detailing how all of our information assets connect to each other), enabling people who need access to navigate and discover any information they might ever need">
+  <properties
+      key="Commitment Number"
+      value="5"/>
+  <properties
+      key="Information Charter Commitment"
+      value="Y"/>
+</archimate:Driver>

@@ -1,0 +1,14 @@
+<archimate:Stakeholder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Anglian Water Business Lead Manager"
+    id="id-8151254d-20b1-4552-b514-5129a093bcdb">
+  <properties
+      key="Person Name"
+      value="Melissa Tallack"/>
+  <properties
+      key="Email"
+      value="mTallack2@anglianwater.co.uk"/>
+  <properties
+      key="Mobile Telephone"
+      value="07710 700341"/>
+</archimate:Stakeholder>

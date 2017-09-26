@@ -1,0 +1,8 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Head of Programme Management"
+    id="id-1c6ba90f-49c0-4a8d-9551-2ee3c8996808">
+  <properties
+      key="Person Name"
+      value="Paul Harrison"/>
+</archimate:BusinessRole>

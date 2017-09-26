@@ -1,0 +1,5 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AGB Chairman"
+    id="id-d2a16977-04f5-4612-8c6d-1fc4e7398cc1"
+    documentation="Represents the Enterprise architectue view an can adjudicate when a proposal causes conflict between existing architecture."/>

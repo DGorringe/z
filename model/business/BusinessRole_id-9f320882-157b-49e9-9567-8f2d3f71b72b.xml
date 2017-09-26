@@ -1,0 +1,8 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Regulation Director"
+    id="id-9f320882-157b-49e9-9567-8f2d3f71b72b">
+  <properties
+      key="Person Name"
+      value="Alex Plant"/>
+</archimate:BusinessRole>

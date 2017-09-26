@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Implement a managed metadata environment"
+    id="id-0215384f-a176-442d-810e-372b92b26367"
+    documentation="A managed metadata environment is implemented which provides the capability to capture, centralise, structure, store, maintain, integrate, search, measure, distribute, deliver, query, report, analyse, and leverage metadata.">
+  <properties
+      key="Cultural goal Classification"
+      value="Metadata Management"/>
+</archimate:Goal>

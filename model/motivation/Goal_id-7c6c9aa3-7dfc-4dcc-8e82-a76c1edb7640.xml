@@ -1,0 +1,8 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data owners are the principal drivers of data governance, data management principles and capabilities."
+    id="id-7c6c9aa3-7dfc-4dcc-8e82-a76c1edb7640">
+  <properties
+      key="Cultural goal Classification"
+      value="Data Ownership"/>
+</archimate:Goal>

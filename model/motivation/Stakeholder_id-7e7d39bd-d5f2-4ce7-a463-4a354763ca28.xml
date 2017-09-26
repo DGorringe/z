@@ -1,0 +1,9 @@
+<archimate:Stakeholder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Water Quality"
+    id="id-7e7d39bd-d5f2-4ce7-a463-4a354763ca28"
+    documentation="Business Stakeholders and Subject Matter Experts that attended workshops">
+  <properties
+      key="Person Name"
+      value="Peter Brown"/>
+</archimate:Stakeholder>

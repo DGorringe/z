@@ -1,0 +1,12 @@
+<archimate:Stakeholder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Telemetry"
+    id="id-1e753cb9-36b7-4034-b5bc-78503311f51c"
+    documentation="Business Stakeholders and Subject Matter Experts that attended workshops">
+  <properties
+      key="Person Name"
+      value="Matt Walker"/>
+  <properties
+      key="Person Name"
+      value="Brian Lumb"/>
+</archimate:Stakeholder>

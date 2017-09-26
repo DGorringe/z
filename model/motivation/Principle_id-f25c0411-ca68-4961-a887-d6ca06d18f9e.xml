@@ -1,0 +1,15 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="You can't improve what you don't measure"
+    id="id-f25c0411-ca68-4961-a887-d6ca06d18f9e"
+    documentation="Anglian Water will seek to establish a data quality scoring mechanism which will serve as a measurement by which data can be categorised and trusted based on its relative quality score.&#xA;&#xA;To this end it will perform ongoing data quality assessment on an incremental basis by prioritising key subject areas known to be affected by poor data quality, based on the standard data quality dimensions of completeness (missing data), consistency (across datasets, systems), conformity (format, data types), accuracy / validity, duplication, timeliness (frequency, up-todate), integrity (structure).&#xA;&#xA;Feedback loops will be incorporated into Business As Usual activities, in order to realise improvements upstream at the points of origin (e.g. training issues, poor interface, poor validation, etc.), rather than downstream at the point of extraction and storage.&#xA;&#xA;Data quality scoring provides trust and confidence in data, and a scientific basis for issue resolution and improvement.">
+  <properties
+      key="Example"
+      value="We know we have assets recorded with incorrect attributes e.g. lengths of brick piping with impossible diameters. By defining data quality rules we can measure the size of the issue and manage it. If we can identify data of dubious quality when planning interventions we can save time by recognising we have incomplete information and scheduling the correct teams to perform the required actions in the correct order."/>
+  <properties
+      key="Example"
+      value="Measure telemetry data to predictively drive maintenance schedules."/>
+  <properties
+      key="Example"
+      value="Indentifying training requirements for staff perfoming business tasks by comparing differing attributes recorded about business task."/>
+</archimate:Principle>
