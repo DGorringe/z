@@ -1,0 +1,8 @@
+<archimate:Deliverable
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Rules to define data quality"
+    id="id-6cf2b129-0e54-48f1-b89a-46dde38eb2b5"
+    documentation="The business rules defined by the BU specify the rules for identifying data fit for a specific purpose. This will  be described in business language.&#xA;E.g. Each customer shall have a payment method or A pump shall be identified by a manufacturer's serial number to be physically  tagged on the apparatus.">
+  <properties
+      key="Output"/>
+</archimate:Deliverable>

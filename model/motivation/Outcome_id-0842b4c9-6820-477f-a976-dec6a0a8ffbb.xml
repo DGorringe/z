@@ -1,0 +1,5 @@
+<archimate:Outcome
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage data life cycle in storage medium"
+    id="id-0842b4c9-6820-477f-a976-dec6a0a8ffbb"
+    documentation="Not all data should reside forever in primary storage, as it will eventually incur a maintenance and performance cost. The cost of maintaining data should not be allowed to exceed its value to the organization."/>

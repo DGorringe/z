@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Must produce data dictionary for all data entities"
+    id="id-f69b3eb7-1d3b-4b93-848f-d1c4dbae1f8c"
+    documentation="Format and style as described in AW standards"/>

@@ -1,0 +1,5 @@
+<archimate:Deliverable
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Canonical Logical Data Model"
+    id="id-1a97c82f-4056-46ac-b333-41ac9472b8a4"
+    documentation="Defines a canonical version of the data entitines including summary and calculated values. Management strategy fof slow changing dimensions and history . This exposes the specification of  data entities available to the ESB"/>

@@ -1,0 +1,13 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Goverance Tool"
+    id="id-cc33c2cd-c49c-4f6b-802a-b5bf2f5c2c9a"
+    documentation="e.g Collibra to manage metadata">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-b95b9972-646e-4e92-8890-f520ebfe2cdf.xml#id-b95b9972-646e-4e92-8890-f520ebfe2cdf"/>
+  <target
+      xsi:type="archimate:Deliverable"
+      href="Deliverable_id-7788646e-d770-4dac-a9bd-fdd1154f2a80.xml#id-7788646e-d770-4dac-a9bd-fdd1154f2a80"/>
+</archimate:CompositionRelationship>

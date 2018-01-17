@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data trusted for re-active impact assessments"
+    id="id-62e29eac-4103-465c-93c8-be32d4902e8a"
+    documentation="Able to use data with confidence in incidents">
+  <properties
+      key="Goal  Classification"
+      value="Benefit"/>
+</archimate:Goal>

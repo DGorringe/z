@@ -1,0 +1,5 @@
+<archimate:Meaning
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Master Data Management"
+    id="id-cc431f94-131c-4914-8eed-f6cd04b9dddd"
+    documentation="Master Data Management is the process of synchronising the system of record for a data entities attribute with all systems that maintain a copy of that attribute.&#xA;&#xA;Application interfaces between line of business systems enable shared data to be transferred from one to the other automatically, driving down manual data processing."/>

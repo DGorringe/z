@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Must identify system of record for each attribute of each data entity"
+    id="id-3762dcdc-c796-4f24-82f2-a5eac94646fd"
+    documentation="Must identify table and columnnnnn that masters data entity attribute in application. &#xA;Stored as meta data."/>

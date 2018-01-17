@@ -1,0 +1,9 @@
+<archimate:Outcome
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Identify redundant data"
+    id="id-01d367b8-5c5d-4e14-be98-20f9d4f6b5d1"
+    documentation="Identify data that can be removed from online storage usbject">
+  <properties
+      key="Outcome Classification"
+      value="Data Management"/>
+</archimate:Outcome>

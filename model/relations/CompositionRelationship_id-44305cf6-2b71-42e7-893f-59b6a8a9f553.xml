@@ -1,0 +1,13 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tool to test data quality"
+    id="id-44305cf6-2b71-42e7-893f-59b6a8a9f553"
+    documentation="Tool to measure Data Quality Rules and record">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-b95b9972-646e-4e92-8890-f520ebfe2cdf.xml#id-b95b9972-646e-4e92-8890-f520ebfe2cdf"/>
+  <target
+      xsi:type="archimate:Deliverable"
+      href="Deliverable_id-64a21c90-3c1c-4fea-97ac-045ed26b4770.xml#id-64a21c90-3c1c-4fea-97ac-045ed26b4770"/>
+</archimate:CompositionRelationship>

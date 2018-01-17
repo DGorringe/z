@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Understand how the business unit co-operates with other business units"
+    id="id-6822f52e-4f5b-42d2-8595-cda3c9832191"
+    documentation="How different business units are reliant on underlying technology and data quality">
+  <properties
+      key="Goal  Classification"
+      value="Benefit"/>
+</archimate:Goal>

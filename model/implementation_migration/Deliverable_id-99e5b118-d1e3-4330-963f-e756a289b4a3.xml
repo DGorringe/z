@@ -1,0 +1,8 @@
+<archimate:Deliverable
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Single source of truth"
+    id="id-99e5b118-d1e3-4330-963f-e756a289b4a3"
+    documentation="Identify which application mastered each attribute of each data entity. Derive any business logic/rules associated with identifying master.&#xA;or is it system of record?&#xA;Identify which applications use a copy ofmaster data and reference data and how that copy is kept in sync with master copy.">
+  <properties
+      key="Output"/>
+</archimate:Deliverable>

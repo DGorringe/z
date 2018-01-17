@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Define data management standard"
+    id="id-3f840a75-ebdb-43b9-bc04-faafc4c01181"
+    documentation="A data management standard shall define a set of criteria to ensure that business objects and data entities have metadata with a consistent style and content."/>

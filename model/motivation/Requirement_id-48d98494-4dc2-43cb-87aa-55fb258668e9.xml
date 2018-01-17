@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="All business terms must be defined in business glossary"
+    id="id-48d98494-4dc2-43cb-87aa-55fb258668e9"
+    documentation="All business glossary entries shall have the minimim populated attributes, business term name, description, tcreation timestamp and stus as one of proposed , approved ,&#xA;&#xA;Must comply with all AW polices and standards"/>

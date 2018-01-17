@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Hierarchical logical data models must include relationships between data entities"
+    id="id-6962dfde-d654-4cce-82d4-00ac26260fc6"
+    documentation="All relationships exposed in business process modelling shouldl be defined .&#xA;The relationshipd should facilitate navigation between different data entities"/>

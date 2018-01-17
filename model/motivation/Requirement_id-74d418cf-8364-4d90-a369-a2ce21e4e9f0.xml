@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Each data entity must have a data rule to define the time period that instances must be retained in primary storage"
+    id="id-74d418cf-8364-4d90-a369-a2ce21e4e9f0"
+    documentation="Each instance of a data entity must have an expiry date either atached to or computed from  data instance timestamp that indicate when the data instance can be removed from  primary storage."/>

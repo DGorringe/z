@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Every data entry activitiy identified in a business process model must be subjected to user experience design practices"
+    id="id-faf22de8-ddc9-4c6f-ba42-afb7c772adf2"
+    documentation="All relationships exposed in business process modelling shouldl be defined .&#xA;The relationshipd should facilitate navigation between different data entities"/>

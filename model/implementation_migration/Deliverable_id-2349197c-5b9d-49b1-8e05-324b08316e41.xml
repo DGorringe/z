@@ -1,0 +1,8 @@
+<archimate:Deliverable
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business process to business entity CRUD Matrix"
+    id="id-2349197c-5b9d-49b1-8e05-324b08316e41"
+    documentation="Identify the business roles that access datasets in each business process in order to assist with definition security access roles used in technology architecture.&#xA;Highlights whether or not key information assets have a fully managed end to end lifecycle&#xA;Mitigates against the risk of Anglian Water omitting key Information assets from the scope of the its project&#xA;Enables the project to define a single point of entry across entire Anglian Water application landscape , resulting only one data owner for that piece of information reducing the possibility of any data conflicts&#xA;Ensures that information is captured and shared  eliminating the associated costs of double entry, duplicate resources, data cleansing and data reconciliation.  As Key information assets will now have a traceable lifecycle that can be shared across the entire organisation. &#xA;Helps to ensure that the business only captures data with real business value rather than individual whims">
+  <properties
+      key="Output"/>
+</archimate:Deliverable>

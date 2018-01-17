@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Workflow Management"
+    id="id-1d2e3754-fcbf-4b9d-aae0-0bedc36bf304"
+    documentation="Workflow to allow Data owners, SME and staff to comment, correct and refine data definitions"/>

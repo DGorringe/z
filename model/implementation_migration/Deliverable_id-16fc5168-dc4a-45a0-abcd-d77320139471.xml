@@ -1,0 +1,8 @@
+<archimate:Deliverable
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Guidelines to change Delivery Management process"
+    id="id-16fc5168-dc4a-45a0-abcd-d77320139471"
+    documentation="A set of guides that can be used to modify the Delivery Management process to have stage gates that include the enforcement of policies relating to data such as data ownership, metadata management, data quality rules and ensure the data strategy is adopted.">
+  <properties
+      key="Output"/>
+</archimate:Deliverable>

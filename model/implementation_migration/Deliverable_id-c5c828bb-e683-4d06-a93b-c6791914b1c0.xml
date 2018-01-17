@@ -1,0 +1,8 @@
+<archimate:Deliverable
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Hierarchical Entity Relationship Model"
+    id="id-c5c828bb-e683-4d06-a93b-c6791914b1c0"
+    documentation="Enterprise  data model for each of the entities. Hierarchical or layered diagrams  provide different levels of granualarity depending on purpose The most abstract level , level 1 has no relationship. It out lines key entitiy classes and subtypes.&#xA;Lower level diagrams to visualise the relationships between those data items.&#xA;Assuming four  levels, Level 1 - Level 4&#xA;Expect to have to use views of limited set of entities to demonstrate behaviour to specific audiences.">
+  <properties
+      key="Output"/>
+</archimate:Deliverable>

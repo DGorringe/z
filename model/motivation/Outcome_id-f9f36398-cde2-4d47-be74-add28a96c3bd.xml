@@ -1,0 +1,5 @@
+<archimate:Outcome
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mange sychronisation of system of record with satellite systems"
+    id="id-f9f36398-cde2-4d47-be74-add28a96c3bd"
+    documentation="Master Data Management establishes centralised, authoritative, ‘golden’ datasets which are propagated out to any satellite systems that require such shared data. It is a key enabler of system and data integration."/>

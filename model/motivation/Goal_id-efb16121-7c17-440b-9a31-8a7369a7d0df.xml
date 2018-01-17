@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Management of access to business processes tranparently propergated down to technology stack"
+    id="id-efb16121-7c17-440b-9a31-8a7369a7d0df"
+    documentation="The business unit control access to thier business processes and the underlying implmentation to  applications and databases supporting that business process should be predefined and applied by automated processes.">
+  <properties
+      key="Goal  Classification"
+      value="Benefit"/>
+</archimate:Goal>

@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="All data rules for a data entity must be defined"
+    id="id-f0929e7c-0c73-4bdc-b50a-7ebc0f90be08"
+    documentation="Must ensure  all constraints are define including range and and referential contratints"/>

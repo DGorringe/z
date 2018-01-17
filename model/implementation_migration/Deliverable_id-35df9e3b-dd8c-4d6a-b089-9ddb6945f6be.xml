@@ -1,0 +1,8 @@
+<archimate:Deliverable
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Metadata Quality BI report specification"
+    id="id-35df9e3b-dd8c-4d6a-b089-9ddb6945f6be"
+    documentation="The specification of a BI report that shows the current quality of each metadata entity and its delta over a time period">
+  <properties
+      key="Output"/>
+</archimate:Deliverable>

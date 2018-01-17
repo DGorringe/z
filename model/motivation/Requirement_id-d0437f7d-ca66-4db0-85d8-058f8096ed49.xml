@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Roles must only have access to data entities and attributes necessary to perform a specific business function"
+    id="id-d0437f7d-ca66-4db0-85d8-058f8096ed49"
+    documentation="Roles must be assigned to business processes"/>

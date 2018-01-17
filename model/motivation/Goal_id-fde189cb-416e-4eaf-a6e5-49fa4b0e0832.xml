@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IT Delivery cost saving"
+    id="id-fde189cb-416e-4eaf-a6e5-49fa4b0e0832"
+    documentation="A better starting point for any new project as the &quot;AS IS&quot; baseline design is documented.&#xA;There is an associated cost in that the &quot;AS IS &quot; view must be maintained upto date to be trusted.">
+  <properties
+      key="Goal  Classification"
+      value="Benefit"/>
+</archimate:Goal>

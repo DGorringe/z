@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Historic metadata from BICC text documents must be assessed for suitablity to be added to metadata mangement systemm"
+    id="id-badafefa-90ea-495c-ad7d-64c965d2403f"
+    documentation="An Enterprise architecture repository should be used to hold all enterprise architecture elements.&#xA; Allow interelationship between different enterprise architecture elements to be analysed"/>

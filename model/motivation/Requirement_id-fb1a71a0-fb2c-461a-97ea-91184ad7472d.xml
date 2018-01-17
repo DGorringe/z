@@ -1,0 +1,4 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Each data entity must be classified as being affected by enhanced data controls imposed by legal or regulatory rules e.g. PCI, DPA, GDPR, CNI"
+    id="id-fb1a71a0-fb2c-461a-97ea-91184ad7472d"/>

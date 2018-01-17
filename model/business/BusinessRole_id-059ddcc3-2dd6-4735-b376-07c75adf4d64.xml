@@ -1,0 +1,5 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Analyst"
+    id="id-059ddcc3-2dd6-4735-b376-07c75adf4d64"
+    documentation="he Data Analyst is the professional whose focus of analysis and problem solving relates to data, types of data, and relationships among data elements within a business system or IT system.&#xA;&#xA;The data analyst role can vary but it can commonly involve the following: &#xA;&#xA;    Documenting the types and structure of the business data (logical modeling), &#xA;    Analyzing and mining business data to identify patterns and correlations among the various data points, &#xA;    Mapping and tracing data from system to system in order to solve a given business or system problem, &#xA;    Design and create data reports and reporting tools to help business executives in their decision making, &#xA;    Perform statistical analysis of business data.&#xA;&#xA;Other common titles for this role are: Data Modeler, Business Intelligence Analyst, Data Warehouse Analyst, Systems Analyst, Business Analyst (generic term), etc."/>

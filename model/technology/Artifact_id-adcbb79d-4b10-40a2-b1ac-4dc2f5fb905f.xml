@@ -1,0 +1,5 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="System of Record"
+    id="id-adcbb79d-4b10-40a2-b1ac-4dc2f5fb905f"
+    documentation="A copy of the current version of an element  exposed through a system that does not master it"/>

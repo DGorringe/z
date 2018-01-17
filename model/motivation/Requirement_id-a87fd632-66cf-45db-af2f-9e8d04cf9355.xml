@@ -1,0 +1,4 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Each data quality issue identified on a data entity must be notified to the assigned data owner"
+    id="id-a87fd632-66cf-45db-af2f-9e8d04cf9355"/>

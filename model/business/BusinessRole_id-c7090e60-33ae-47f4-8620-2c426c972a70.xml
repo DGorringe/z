@@ -1,0 +1,5 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Policy Owner"
+    id="id-c7090e60-33ae-47f4-8620-2c426c972a70"
+    documentation="The owner of a policy  identified in the policy book responsible to maintaing the policy , addressing issues raised on the policy and ensuring compliance?"/>

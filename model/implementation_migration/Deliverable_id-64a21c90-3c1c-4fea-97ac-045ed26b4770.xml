@@ -1,0 +1,8 @@
+<archimate:Deliverable
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Quality Rules"
+    id="id-64a21c90-3c1c-4fea-97ac-045ed26b4770"
+    documentation="The implementation of  business rules into underlying technologies to measure data quality e.g. measure compliance with preset criteria  such as  domain type  , range checks,   constraints, integrity checks, row counts">
+  <properties
+      key="Output"/>
+</archimate:Deliverable>

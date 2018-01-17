@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="All business processes must be modelled using a business process model"
+    id="id-32ddb632-252f-47ec-a367-82ad93211ec4"
+    documentation="Must address all activities identified in value chain.&#xA;&#xA;All business process models must  be saved in BPMN 2.0 format.&#xA;&#xA;Swimlanes in BPM should be horizontal.&#xA;&#xA;Business roles used  in BPM must be defined in HR system with detailed definition.&#xA;&#xA;BPM must comply with all AW polices and standards"/>

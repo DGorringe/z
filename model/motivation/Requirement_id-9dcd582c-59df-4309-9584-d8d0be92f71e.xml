@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Must provide a mechanism to measure and record data quality against a set of predefined data rules"
+    id="id-9dcd582c-59df-4309-9584-d8d0be92f71e"
+    documentation="Results of each data quality measurement must be recorded including meta data about the job which ran the measurement including timestamp."/>

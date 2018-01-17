@@ -1,0 +1,9 @@
+<archimate:Outcome
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Enhance analytics capaility"
+    id="id-ace0d40e-54a3-4f38-9c08-c5c688b80253"
+    documentation="Datasets of measurable quality available for all business units to analyse">
+  <properties
+      key="Outcome Classification"
+      value="Data Management"/>
+</archimate:Outcome>

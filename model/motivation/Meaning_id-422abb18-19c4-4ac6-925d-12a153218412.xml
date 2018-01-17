@@ -1,0 +1,5 @@
+<archimate:Meaning
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Entity"
+    id="id-422abb18-19c4-4ac6-925d-12a153218412"
+    documentation="Completeness i.e all necessary attributes and contraints( data rules)&#xA;Granularity  broken down to level suitable for use for purpose(s)"/>

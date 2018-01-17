@@ -1,0 +1,5 @@
+<archimate:Meaning
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Enterprise Architecture Repository"
+    id="id-f63d2c9d-7aa2-4547-9b4a-0486a2dff033"
+    documentation="Enterprise Data Architecture Modelling policy to govern the creation and maintenance of a centralised, authoritative, baseline Enterprise Data Model, so that all strategic enterprise data can be named, defined, and modelled consistently according to defined standards."/>

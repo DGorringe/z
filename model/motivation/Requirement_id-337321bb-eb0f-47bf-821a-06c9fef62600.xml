@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Must maintain relationship between customer and asset"
+    id="id-337321bb-eb0f-47bf-821a-06c9fef62600"
+    documentation="All relationships exposed in business process modelling shouldl be defined .&#xA;The relationshipd should facilitate navigation between different data entities"/>

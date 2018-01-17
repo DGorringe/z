@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="All data quality rules for a data entity must be defined"
+    id="id-9b552055-7680-4ec1-a02a-f0e8aa4c67dd"
+    documentation="Where,  style and  format?&#xA;&#xA;Must comply with all AW polices and standards"/>

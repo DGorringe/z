@@ -1,0 +1,5 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Architect"
+    id="id-5f749c7a-62ce-4c27-887a-14ec3bde1782"
+    documentation="A data architect is a practitioner of data architecture, an information technology discipline concerned with designing, creating, deploying and managing an organization's data architecture. Data architects define how the data will be stored, consumed, integrated and managed by different data entities and IT systems, as well as any applications using or processing that data in some way.[1] It is closely allied with business architecture and is considered to be one of the four domains of enterprise architecture."/>

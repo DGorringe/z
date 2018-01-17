@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Each data entity must have a lifecyce defined in meta data which includes details any legal or regualtory requiremnt that apply to the data entity"
+    id="id-652cbddd-bf8a-4312-acb8-cc6c037cb12d"
+    documentation="Data entity must record linkage to all legal and/or regulatory policies and/or standards that apply to the data entity.&#xA;&#xA;Through the capture all of the information the business needs, fully exploit the TOTEX opportunity through whole life cost decision making."/>

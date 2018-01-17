@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Must provide a meta data repository available to all authorised users"
+    id="id-a916d574-0d0c-4214-bd25-272919d9ee10"
+    documentation="Meta data repository must be searchable by authorised users."/>

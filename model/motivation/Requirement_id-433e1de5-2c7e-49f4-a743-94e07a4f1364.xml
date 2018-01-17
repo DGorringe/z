@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data that has reached then end of its retention period must be purged from all systems"
+    id="id-433e1de5-2c7e-49f4-a743-94e07a4f1364"
+    documentation="Each instance of a data entity must have an expiry date either atached to or computed from  data instance timestamp that indicate when the data instance can be removed from  primary storage."/>

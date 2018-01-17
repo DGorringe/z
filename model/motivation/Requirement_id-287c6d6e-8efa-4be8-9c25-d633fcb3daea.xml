@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="All corrections to any data issue must be signalled to all members business roles immediately"
+    id="id-287c6d6e-8efa-4be8-9c25-d633fcb3daea"
+    documentation="The act of data submission, and in particular submission of a data correction, generates some type of immediate confirmation message to the user making the submission, to the effect that their submission is acknowledged, recognised, and accepted, thereby promoting the value of their contribution."/>

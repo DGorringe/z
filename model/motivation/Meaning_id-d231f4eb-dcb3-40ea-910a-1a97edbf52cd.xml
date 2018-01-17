@@ -1,0 +1,5 @@
+<archimate:Meaning
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Quality Policy"
+    id="id-d231f4eb-dcb3-40ea-910a-1a97edbf52cd"
+    documentation="Data Quality policy to score (or ‘kite-mark’) all business-critical datasets within the organisation, based on a regular assessment of selected dimensions and measurements of data quality, according to defined standards, as a means of determining whether that data is fit for purpose."/>

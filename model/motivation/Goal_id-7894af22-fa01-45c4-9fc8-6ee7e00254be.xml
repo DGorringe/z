@@ -1,0 +1,4 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data is only retained in primary storage as long as its maintenance and performance cost does not exceed its value to the organisation."
+    id="id-7894af22-fa01-45c4-9fc8-6ee7e00254be"/>

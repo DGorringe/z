@@ -1,0 +1,5 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Relationship Manager"
+    id="id-b8f21f88-dcc7-4716-abf2-da9eaf92f19d"
+    documentation="Manages the relationship between AW IS and AW business unit"/>

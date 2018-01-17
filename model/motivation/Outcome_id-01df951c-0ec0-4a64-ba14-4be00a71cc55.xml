@@ -1,0 +1,9 @@
+<archimate:Outcome
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Improve User Experience when dealing with data"
+    id="id-01df951c-0ec0-4a64-ba14-4be00a71cc55"
+    documentation="Provide a data catalogue that allows visulaiation tools to better present data in a coherant manor">
+  <properties
+      key="Outcome Classification"
+      value="Data Management"/>
+</archimate:Outcome>

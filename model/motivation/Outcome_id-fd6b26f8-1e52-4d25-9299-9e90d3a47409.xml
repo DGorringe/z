@@ -1,0 +1,9 @@
+<archimate:Outcome
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Improve visability of datasets"
+    id="id-fd6b26f8-1e52-4d25-9299-9e90d3a47409"
+    documentation="All business unit to see data mangeed by other business units to look for oppotunities to improve business processes.&#xA;The user expericee">
+  <properties
+      key="Outcome Classification"
+      value="Data Management"/>
+</archimate:Outcome>

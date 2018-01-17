@@ -1,0 +1,5 @@
+<archimate:Meaning
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Owner"
+    id="id-d46c5f5f-daf3-439b-9b64-94ae98dc2df5"
+    documentation="The business role responsible for ensuring all data under its control is complient with data management policies .&#xA;&#xA;Expect data owner role  to  resolve to a single person or small group.&#xA; &#xA;The data owner role may define data management standards or procedures to further refine the controls that should be applied to data under thier control.&#xA;&#xA;The data owner shall be responsible for managing the data management standards  and procedures that appy to business objects and enitities under thier control."/>

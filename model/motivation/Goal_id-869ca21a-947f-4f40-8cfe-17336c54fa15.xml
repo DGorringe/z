@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Control the quality of data"
+    id="id-869ca21a-947f-4f40-8cfe-17336c54fa15"
+    documentation="Business units impowered to improve or reduce the quality of data in order to make the data fit for purpose.&#xA;One business unit may share costs with other business units who need data a differening levels of data quality.">
+  <properties
+      key="Goal  Classification"
+      value="Benefit"/>
+</archimate:Goal>

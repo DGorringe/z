@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Define data governance principles"
+    id="id-92db0bb7-3c74-4ca2-a0b2-4211d73aed57"
+    documentation="The data management procedures must define the process to put checks and balances during the  management of  business objects and data entities to assit with compliance with data polies and standards."/>

@@ -1,0 +1,12 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MDM tool"
+    id="id-e656208f-232f-4658-95ec-bda5e7fcc31a">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-b95b9972-646e-4e92-8890-f520ebfe2cdf.xml#id-b95b9972-646e-4e92-8890-f520ebfe2cdf"/>
+  <target
+      xsi:type="archimate:Deliverable"
+      href="Deliverable_id-99e5b118-d1e3-4330-963f-e756a289b4a3.xml#id-99e5b118-d1e3-4330-963f-e756a289b4a3"/>
+</archimate:CompositionRelationship>

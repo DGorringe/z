@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Must define data quailty standards"
+    id="id-4df95f46-ee5b-4a2b-b4ff-d00532c5a5ad"
+    documentation="Data Quality policy to score (or ‘kite-mark’) all business-critical datasets within the organisation, based on a regular assessment of selected dimensions and measurements of data quality, according to defined standards, as a means of determining whether that data is fit for purpose.&#xA;&#xA;Educating and promoting the business value of data accuracy, to improve data quality."/>

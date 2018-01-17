@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Must provide a procedure to identify and configure a system of record and any slave copies"
+    id="id-479f1998-9a0d-4aa8-bd17-454bc28b92fd"
+    documentation="Procedure must ensure all attributes required to configure and test the MDM configuration is working as requested."/>

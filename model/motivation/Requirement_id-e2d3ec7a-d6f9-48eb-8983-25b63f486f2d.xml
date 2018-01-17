@@ -1,5 +1,5 @@
 <archimate:Requirement
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Extract structured data from unstructured storage"
+    name="Structured data must be extracted from unstructured storage"
     id="id-e2d3ec7a-d6f9-48eb-8983-25b63f486f2d"
     documentation="Operational processes, workflow, and underlying data architectures are rationalised and optimised to ensure that all business-critical information is captured as structured data rather than long text. So, it can be better processed, analysed and leveraged."/>

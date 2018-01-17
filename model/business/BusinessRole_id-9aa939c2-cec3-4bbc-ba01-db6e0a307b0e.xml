@@ -1,0 +1,5 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Scientist"
+    id="id-9aa939c2-cec3-4bbc-ba01-db6e0a307b0e"
+    documentation="The data scientist role is critical for organizations looking to extract insight from information assets for “big data” initiatives and requires a broad combination of skills that may be fulfilled better as a team, for example: Collaboration and team work is required for working with business stakeholders to understand business issues. Analytical and decision modeling skills are required for discovering relationships within data and detecting patterns. Data management skills are required to build the relevant dataset used for the analysis."/>

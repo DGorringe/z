@@ -1,0 +1,9 @@
+<archimate:Outcome
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Expose inter application dependency"
+    id="id-a0fade4b-ada7-46d7-b926-32197538b9d3"
+    documentation="Allow business unite to see which applications interact in a business process">
+  <properties
+      key="Outcome Classification"
+      value="Data Management"/>
+</archimate:Outcome>

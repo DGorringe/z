@@ -1,0 +1,8 @@
+<archimate:Deliverable
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Metadata management platform"
+    id="id-7788646e-d770-4dac-a9bd-fdd1154f2a80"
+    documentation="Also referred to a Data Governance platform. A technology platform  that can be used for metadata management and measurement of data quality">
+  <properties
+      key="Output"/>
+</archimate:Deliverable>

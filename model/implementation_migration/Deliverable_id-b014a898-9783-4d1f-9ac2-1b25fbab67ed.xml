@@ -1,0 +1,8 @@
+<archimate:Deliverable
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Application role to entity/attribute CRUD Matrix"
+    id="id-b014a898-9783-4d1f-9ac2-1b25fbab67ed"
+    documentation="Define what events trigger the creation of a new instance of an entity , the possible transitions to different states it can exist in. The criteria for when data must be removed from systems. A state model.&#xA;CRUD matrix identifies which which role in each application performs each operation on each data entiry attribute(s). Provides lineage from Information systems architecture to technology architecture.">
+  <properties
+      key="Output"/>
+</archimate:Deliverable>

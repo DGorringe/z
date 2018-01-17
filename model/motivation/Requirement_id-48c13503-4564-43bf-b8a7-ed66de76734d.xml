@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Must provide a mechanism to monitor MDM is maintianing synchronisation"
+    id="id-48c13503-4564-43bf-b8a7-ed66de76734d"
+    documentation="When an issue or error is identified it must interface to the AW infastructure maintenance monitoring system and raise a ticket to be be investigated by support team"/>

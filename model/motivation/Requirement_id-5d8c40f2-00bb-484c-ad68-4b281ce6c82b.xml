@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Define data management procedure"
+    id="id-5d8c40f2-00bb-484c-ad68-4b281ce6c82b"
+    documentation="The data management procedures shall define the process to put checks and balances during the  management of  business objects and data entities to assit with compliance with data polies and standards.&#xA;&#xA;Data governance is synonomous with data management"/>

@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Enterprise data architecture artifacts should be stored in a central repository"
+    id="id-7e025b84-9dfe-443e-8f0b-f79346bb7ff1"
+    documentation="An Enterprise architecture repository should be used to hold all enterprise architecture elements.&#xA; Allow interelationship between different enterprise architecture elements to be analysed"/>

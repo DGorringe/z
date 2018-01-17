@@ -1,0 +1,12 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Enterprise Data Architecture tool"
+    id="id-1bf759ee-0d5b-4e18-bf94-9b223ecdbd0d">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-b95b9972-646e-4e92-8890-f520ebfe2cdf.xml#id-b95b9972-646e-4e92-8890-f520ebfe2cdf"/>
+  <target
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-51081660-42de-4ced-abe4-1b605c2a44c2.xml#id-51081660-42de-4ced-abe4-1b605c2a44c2"/>
+</archimate:CompositionRelationship>

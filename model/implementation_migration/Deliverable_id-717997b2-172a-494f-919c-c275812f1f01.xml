@@ -1,0 +1,8 @@
+<archimate:Deliverable
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Process Model"
+    id="id-717997b2-172a-494f-919c-c275812f1f01"
+    documentation="A process model for each business process that has contributed to the canonical data models to  allow audit of completeness">
+  <properties
+      key="Output"/>
+</archimate:Deliverable>

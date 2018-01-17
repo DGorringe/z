@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Must identify usage for each attribute of each data entity"
+    id="id-0882bc10-3f65-4603-a10b-14ff18661c2b"
+    documentation="Must identify table and columnnnnn that uses data entity attribute in application. &#xA;Stored as meta data."/>

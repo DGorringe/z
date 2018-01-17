@@ -1,0 +1,11 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Application Catalogue"
+    id="id-e1ce5fd8-3a4c-4185-b682-82a4dd11810e">
+  <properties
+      key="Person Name"
+      value="David Green"/>
+  <properties
+      key="Email"
+      value="david.3.green@atos.net"/>
+</archimate:BusinessObject>

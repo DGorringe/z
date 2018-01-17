@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Assign monetary value to quality of entitiy"
+    id="id-10216169-e8e2-4e48-8790-764a6bcb6bc7"
+    documentation="Assign a cash value to the completness and quality of an entities attributes. This will  need detailed input from SME">
+  <properties
+      key="Goal  Classification"
+      value="Benefit"/>
+</archimate:Goal>

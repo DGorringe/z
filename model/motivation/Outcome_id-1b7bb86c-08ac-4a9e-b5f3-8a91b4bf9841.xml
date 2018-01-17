@@ -1,0 +1,9 @@
+<archimate:Outcome
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Managable master and reference data"
+    id="id-1b7bb86c-08ac-4a9e-b5f3-8a91b4bf9841"
+    documentation="Allow business unite to understand where data is mastered&#xA; and where copies of that master data are required">
+  <properties
+      key="Outcome Classification"
+      value="Data Management"/>
+</archimate:Outcome>

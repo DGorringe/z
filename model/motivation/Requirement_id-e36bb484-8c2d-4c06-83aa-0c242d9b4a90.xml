@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Must provide a mechanism to support spoke and wheel master data management functionality"
+    id="id-e36bb484-8c2d-4c06-83aa-0c242d9b4a90"
+    documentation="Where different business units, processes, and systems share business-critical data from the same domain or subject area (e.g. Asset, Job, Customer, Employee, etc.), then authoritative ‘golden’ data stores are created and maintained. Data is propagated out to all the satellite systems that require it, from that single centralised location, in order to ensure consistency and eradicate redundancy and fragmentation&#xA;Wherever the data architecture of a new or existing line of business system is not sufficiently adaptable to cater for the needs of all satellite processes, then a ‘hub-and-spoke’ system is implemented instead, such that data is mastered in a separate hub system and the line of business system becomes a ‘spoke’ of the hub, with mechanisms to ensure synchronisation."/>

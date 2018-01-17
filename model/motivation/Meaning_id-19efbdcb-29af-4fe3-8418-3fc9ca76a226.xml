@@ -1,0 +1,5 @@
+<archimate:Meaning
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Enterprise Data Architecture policy"
+    id="id-19efbdcb-29af-4fe3-8418-3fc9ca76a226"
+    documentation="Enterprise Data Architecture Modelling policy to govern the creation and maintenance of a centralised, authoritative, baseline Enterprise Data Model, so that all strategic enterprise data can be named, defined, and modelled consistently according to defined standards."/>

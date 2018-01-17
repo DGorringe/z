@@ -1,0 +1,5 @@
+<archimate:Meaning
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Policy owner"
+    id="id-d26d0b5f-5c2f-4085-b393-6dc311080c9f"
+    documentation="The business role responsible for defining data management policies &#xA;&#xA;The policy owner shall be responsible for managing the data management policies including ensuring publication and distribution to data owners."/>

@@ -1,0 +1,9 @@
+<archimate:Outcome
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ensure compliance with legal and regulatory data controls."
+    id="id-201829ef-2867-464c-8577-9cb8579b8f4c"
+    documentation="Know how long data needs to be retained for operational, legal and regulatory purposed. Identify data that can be removed from online storage usbject">
+  <properties
+      key="Outcome Classification"
+      value="Data Management"/>
+</archimate:Outcome>

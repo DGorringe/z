@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Each data entity should have as many attributes as nesessay to acuratley reflect the physical asset it represents"
+    id="id-0f0a997d-7a74-428a-b5a5-7af660dac99b"
+    documentation="Each distinct attribute must be defined. Any unstructured attributes normalised to 3rd normal form."/>

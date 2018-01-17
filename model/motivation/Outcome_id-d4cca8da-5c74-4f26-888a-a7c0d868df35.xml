@@ -1,0 +1,9 @@
+<archimate:Outcome
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Auditable role based access model"
+    id="id-d4cca8da-5c74-4f26-888a-a7c0d868df35"
+    documentation="Roles defined to perform each task within business process with minimum access to perform role.&#xA;&#xA;A balanced and audited security function ensures that the right people can use and update data in the right way, and that inappropriate access is restricted without stifling innovation.">
+  <properties
+      key="Outcome Classification"
+      value="Data Management"/>
+</archimate:Outcome>

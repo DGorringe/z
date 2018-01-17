@@ -1,0 +1,5 @@
+<archimate:Deliverable
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Entity Security Classification"
+    id="id-8f066458-8721-4947-9ac2-a2c1110d7a8c"
+    documentation="The security classification of the business entitty informs the data security classification inherited by the data entities that realise the business entity."/>

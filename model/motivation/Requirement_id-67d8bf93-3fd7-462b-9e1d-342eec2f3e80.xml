@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Must identify where phisical data objects do not reflect data entity descriptions"
+    id="id-67d8bf93-3fd7-462b-9e1d-342eec2f3e80"
+    documentation="Must be able to report inconsistencies between physical and logical definintions.&#xA;E.g logical entity/attribute with no table.column equivelent. or visa versa.&#xA;Indicates a miss understanding of business process or unnessesary data."/>

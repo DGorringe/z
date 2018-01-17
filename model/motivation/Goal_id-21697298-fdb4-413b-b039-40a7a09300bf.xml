@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cost Avoidance"
+    id="id-21697298-fdb4-413b-b039-40a7a09300bf"
+    documentation="No new IT investment. Identify a solution that will reuse or adapt exisiting data and systems">
+  <properties
+      key="Goal  Classification"
+      value="Benefit"/>
+</archimate:Goal>

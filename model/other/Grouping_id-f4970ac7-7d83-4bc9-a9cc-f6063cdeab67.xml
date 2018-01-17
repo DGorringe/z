@@ -1,4 +1,5 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="End User Compute"
-    id="id-f4970ac7-7d83-4bc9-a9cc-f6063cdeab67"/>
+    id="id-f4970ac7-7d83-4bc9-a9cc-f6063cdeab67"
+    documentation="TiDE"/>

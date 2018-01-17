@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="All roles defined must reflect roles that exisit in HR system"
+    id="id-2be692eb-3b97-4d47-af3b-4b3cbd111393"
+    documentation="Roles must be assigned to business processes"/>
